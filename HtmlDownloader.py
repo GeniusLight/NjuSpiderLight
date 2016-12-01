@@ -13,8 +13,11 @@ class Downloader(object):
         except Exception as e:
             fp_error.write(url+'\t'+str(e)+'\t'+"\n")
             return None
-
-        html_text = html.text
+        if html.encoding == 'ISO-8859-1':
+            html_text = html.text
+            html_text = html_text.decode("utf8").encode("ISO-8859-1")
+        elif:
+            html_text = html.text
         return html_text
 
 

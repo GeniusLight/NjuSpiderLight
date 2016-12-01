@@ -31,3 +31,6 @@ class SimpleDeal(object):
         content.replace('     ', ',')
         OutputS = SimpleTrs(title, content, url)
         return OutputS
+
+    def Method2(self, url, html_text, fp_error):
+        pass
