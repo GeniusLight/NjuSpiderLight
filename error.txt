@@ -1,1 +1,47 @@
-http://stuex.nju.edu.cn/a/gywm/	'NoneType' object has no attribute 'string'	
+start:	Thu Dec 01 13:59:50 2016
+
+location2	http://stuex.nju.edu.cn/a/gywm/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/a/lhlx/dwxh/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/a/lhlx/index.html	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/plus/list.php?tid=212	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/en/a/About_NJU/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/en/a/Scientific_Research/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/en/a/Liberal_Arts_Research/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/en/a/Guide_for_Students/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/en/a/Contact_Us/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/en/a/Guide_for_Students	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/a/cglx/lxxz/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/a/cglx/jtlc/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/a/tbxm/gjgpxm/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/a/tbxm/ylsmxm/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/a/tbxm/jndxm22/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/a/tbxm/zrhyzxyxm/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/a/tbxm/zf9_9xm/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/uploads/soft/160929/3-160929203359.PDF	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/en/a/Chinese_Language_Training/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/en/a/Degree_Programms_Taught_in_Chinese/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/en/a/Master_Programms_Taught_in_English/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/en/a/Special_Programms/	'NoneType' object has no attribute 'string'	
+location2	http://stuex.nju.edu.cn/en/uploads/soft/160314/2-1603141A937.ppt	'NoneType' object has no attribute 'string'	
+location1	http://www.nju.edu.cn/3688/list.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/1535/list.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://www.nju.edu.cn/_s2/3689/list.psp		('Connection aborted.', BadStatusLine("''",))	
+location1	http://www.nju.edu.cn/3615/list.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/687/list.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/687/list.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://www.nju.edu.cn/3/list6.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/687/list.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/dtxw/list.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/tzgg/list2.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/1519/list96.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/1517/list16.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/1521/list22.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/hdyjz/list5.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/742/list8.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/743/list9.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/742/list112.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/742/list104.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/742/list88.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/742/list58.htm		('Connection aborted.', BadStatusLine("''",))	
+stop:	Thu Dec 01 14:11:59 2016
+

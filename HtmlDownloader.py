@@ -11,9 +11,9 @@ class Downloader(object):
         try:
             html = requests.get(url, headers=headers)
         except Exception as e:
-            fp_error.write(url+'\t'+str(e)+'\t'+"\n")
+            fp_error.write("location1"+"\t"+url+'\t\t'+str(e)+'\t'+"\n")
             return None
-        if html.encoding == 'ISO-8859-1':
+        if html.encoding == 'ISO-8859-1': #中英文网页的编码问题
             html_text = html.text
             html_text = html_text.decode("utf8").encode("ISO-8859-1")
         else:

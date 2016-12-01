@@ -3,6 +3,7 @@ import HtmlInput
 import HtmlOutput
 import HtmlDownloader
 import HtmlDeal
+import time
 
 
 UrlFile = "id_url.csv"
@@ -14,6 +15,7 @@ UrlList = InputUrl.ReadUrl(UrlFile)
 num = len(UrlList)
 
 FpError = open(ErrorFile, 'a')
+FpError.write("start:\t"+time.ctime()+"\n\n")
 FpOutput = open(OutputFile, 'w')
 Downloader = HtmlDownloader.Downloader()
 SimpleDeal = HtmlDeal.SimpleDeal()
@@ -24,4 +26,6 @@ for i in range(num):
     OutputS = SimpleDeal.Method1(UrlList[i], html_text, FpError)
     OutputContent.OutputEs(OutputS, int(IdList[i]), FpOutput)
 
+FpError.write("stop:\t"+time.ctime()+"\n\n")
 FpError.close()
+FpOutput.close()
