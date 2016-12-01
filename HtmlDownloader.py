@@ -16,8 +16,9 @@ class Downloader(object):
         if html.encoding == 'ISO-8859-1':
             html_text = html.text
             html_text = html_text.decode("utf8").encode("ISO-8859-1")
-        elif:
+        else:
             html_text = html.text
+
         return html_text
 
 
