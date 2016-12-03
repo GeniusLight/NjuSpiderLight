@@ -24,11 +24,11 @@ class SimpleDeal(object):
         try:
             title = soup.title.string.strip()
         except Exception as e:
-            fp_error.write("location2"+"\t"+url + '\t' + str(e) + '\t' + "\n")  # 出现读出title为空的情况，不太明白
+            fp_error.write(url + '\t' + str(e) + '\t' + "\n")  # 出现读出title为空的情况，不太明白
             title = "None"
 
         content = "".join(soup.stripped_strings)
-        content = content.replace('\s', ',')
+        content.replace('     ', ',')
         OutputS = SimpleTrs(title, content, url)
         return OutputS
 
