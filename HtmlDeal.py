@@ -21,13 +21,18 @@ class SimpleDeal(object):
             if x.string != None:
                 x.string.replace_with(" ")
 
+        style = soup.find_all("style")  # 找到所有script的标签
+        for x in style:  # 判断script标签是否包含文本，若有，直接置为空
+            if x.string != None:
+                x.string.replace_with(" ")
+
         try:
             title = soup.title.string.strip()
         except Exception as e:
             fp_error.write("location2"+"\t"+url + '\t' + str(e) + '\t' + "\n")  # 出现读出title为空的情况，不太明白
             title = "None"
 
-        content = "".join(soup.stripped_strings)
+        content = "\t".join(soup.stripped_strings)
         content = content.replace('\s', ',')
         OutputS = SimpleTrs(title, content, url)
         return OutputS
