@@ -41,7 +41,7 @@ FpError.write("start:\t" + time.ctime() + "\n\n")
 FpOutput = open(OutputFile, 'w')
 
 # 第一次爬取Url
-# SpiderMain(UrlFile, FpError, FpOutput)
+SpiderMain(UrlFile, FpError, FpOutput)
 
 if os.path.exists(ReUrlFile):
     # 重新爬取Url，针对无法爬取的url
