@@ -12,3 +12,4 @@ class OutputContent(object):
         FpOutput.write("\n")
         FpOutput.write(json.dumps(content, default=lambda obj: obj.__dict__, ensure_ascii=False))  # 序列化输出
         FpOutput.write("\n")
+

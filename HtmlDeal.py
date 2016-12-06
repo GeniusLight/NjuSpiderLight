@@ -15,6 +15,10 @@ class SimpleDeal(object):
             OutputS = SimpleTrs(None, None, url)
             return OutputS
 
+        html_text = html_text.replace('&nbsp;', '') #处理源码中不需要的字符
+        html_text = html_text.replace('\s*', ',')
+        html_text = html_text.replace('&emsp;', ',')
+
         soup = BeautifulSoup(html_text, "lxml")
         script = soup.find_all("script")  # 找到所有script的标签
         for x in script:  # 判断script标签是否包含文本，若有，直接置为空
@@ -33,7 +37,6 @@ class SimpleDeal(object):
             title = "None"
 
         content = "\t".join(soup.stripped_strings)
-        content = content.replace('\s', ',')
         OutputS = SimpleTrs(title, content, url)
         return OutputS
 

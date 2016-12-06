@@ -29,7 +29,7 @@ import re
 # ContentTest = ContentTest.replace(' ', '', 50)
 # print ContentTest
 
-# TestUrl = 'http://stuex.nju.edu.cn/a/xzzx/2015/0828/635.html'
+# TestUrl = 'http://stuex.nju.edu.cn/en/a/guide_for_students'
 # TestId = 2933
 # OutputFile = "test.json"
 # ErrorFile = "Testerror.txt"
@@ -47,6 +47,6 @@ import re
 # OutputS = SimpleDeal.Method1(TestUrl, html_text, FpError)
 # OutputContent.OutputEs(OutputS, TestId, FpOutput)
 
-url = 'http://stuex.nju.edu.cn/uploads/soft/160929/3-160929203359.pdf'
-if re.match('(.*?)\.pdf', url):
-    print 'ok'
+# url = 'http://stuex.nju.edu.cn/uploads/soft/160929/3-160929203359.pdf'
+# if re.match('(.*?)\.pdf', url):
+#     print 'ok'

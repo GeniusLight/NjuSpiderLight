@@ -4,27 +4,44 @@ import HtmlOutput
 import HtmlDownloader
 import HtmlDeal
 import time
+import os
 
 
-UrlFile = "id_url.csv"
-ErrorFile = "error.txt"
+def SpiderMain(Urlfile, FpError, FpOutput):
+    Downloader = HtmlDownloader.Downloader()
+    SimpleDeal = HtmlDeal.SimpleDeal()
+    OutputContent = HtmlOutput.OutputContent()
+    InputUrl = HtmlInput.InputUrl()
+    IdList = InputUrl.ReadId(UrlFile)
+    UrlList = InputUrl.ReadUrl(UrlFile)
+    num = len(UrlList)
+
+    for i in range(num):
+        print ("ReSpider id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
+        html_text = Downloader.StaticDownload(UrlList[i], int(IdList[i]), FpError)
+        if html_text == None:
+            pass
+        else:
+            OutputS = SimpleDeal.Method1(UrlList[i], html_text, FpError)
+            OutputContent.OutputEs(OutputS, int(IdList[i]), FpOutput)
+
+
+ErrorFile = "error.txt"#请手动清除
 OutputFile = "result.json"
-InputUrl = HtmlInput.InputUrl()
-IdList = InputUrl.ReadId(UrlFile)
-UrlList = InputUrl.ReadUrl(UrlFile)
-num = len(UrlList)
+UrlFile = "id_url.csv"
+ReUrlFile = 'OutputUrl.csv'
 
+os.remove(ReUrlFile)#删除上一次遗留的链接
 FpError = open(ErrorFile, 'a')
-FpError.write("start:\t"+time.ctime()+"\n\n")
+FpError.write("start:\t" + time.ctime() + "\n\n")
 FpOutput = open(OutputFile, 'w')
-Downloader = HtmlDownloader.Downloader()
-SimpleDeal = HtmlDeal.SimpleDeal()
-OutputContent = HtmlOutput.OutputContent()
-for i in range(num):
-    print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
-    html_text = Downloader.StaticDownload(UrlList[i], FpError)
-    OutputS = SimpleDeal.Method1(UrlList[i], html_text, FpError)
-    OutputContent.OutputEs(OutputS, int(IdList[i]), FpOutput)
+
+# 第一次爬取Url
+SpiderMain(UrlFile, FpError, FpOutput)
+
+#重新爬取Url，针对无法爬取的url
+FpError.write("Respider-----------------\n")
+SpiderMain(ReUrlFile, FpError, FpOutput)
 
 FpError.write("stop:\t"+time.ctime()+"\n\n")
 FpError.close()
