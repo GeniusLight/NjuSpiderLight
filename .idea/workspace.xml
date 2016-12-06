@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="71b63f6e-a0a6-4918-8ed9-5b4fad3d836f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SpiderMain.py" afterPath="$PROJECT_DIR$/SpiderMain.py" />
     </list>
     <ignored path="ContentSpider.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -469,7 +468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1481042372017</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="部分解决Connection aborted问题">
+      <created>1481042424928</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1481042424928</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
