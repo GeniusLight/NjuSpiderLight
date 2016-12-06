@@ -7,13 +7,13 @@ import time
 import os
 
 
-def SpiderMain(Urlfile, FpError, FpOutput):
+def SpiderMain(File, FpError, FpOutput):
     Downloader = HtmlDownloader.Downloader()
     SimpleDeal = HtmlDeal.SimpleDeal()
     OutputContent = HtmlOutput.OutputContent()
     InputUrl = HtmlInput.InputUrl()
-    IdList = InputUrl.ReadId(UrlFile)
-    UrlList = InputUrl.ReadUrl(UrlFile)
+    IdList = InputUrl.ReadId(File)
+    UrlList = InputUrl.ReadUrl(File)
     num = len(UrlList)
 
     for i in range(num):
@@ -31,18 +31,25 @@ OutputFile = "result.json"
 UrlFile = "id_url.csv"
 ReUrlFile = 'OutputUrl.csv'
 
-os.remove(ReUrlFile)#删除上一次遗留的链接
+if os.path.exists(ReUrlFile):
+    os.remove(ReUrlFile)#删除上一次遗留的链接
+else:
+    pass
+
 FpError = open(ErrorFile, 'a')
 FpError.write("start:\t" + time.ctime() + "\n\n")
 FpOutput = open(OutputFile, 'w')
 
 # 第一次爬取Url
-SpiderMain(UrlFile, FpError, FpOutput)
+# SpiderMain(UrlFile, FpError, FpOutput)
 
-#重新爬取Url，针对无法爬取的url
-FpError.write("-----Respider-----\n")
-print '-----respider-----\n'
-SpiderMain(ReUrlFile, FpError, FpOutput)
+if os.path.exists(ReUrlFile):
+    # 重新爬取Url，针对无法爬取的url
+    FpError.write("-----Respider-----\n")
+    print '-----respider-----\n'
+    SpiderMain(ReUrlFile, FpError, FpOutput)
+else:
+    print 'No Connection aborted part'
 
 FpError.write("stop:\t"+time.ctime()+"\n\n")
 FpError.close()
