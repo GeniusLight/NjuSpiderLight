@@ -17,7 +17,7 @@ def SpiderMain(Urlfile, FpError, FpOutput):
     num = len(UrlList)
 
     for i in range(num):
-        print ("ReSpider id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
+        print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
         html_text = Downloader.StaticDownload(UrlList[i], int(IdList[i]), FpError)
         if html_text == None:
             pass
@@ -40,7 +40,8 @@ FpOutput = open(OutputFile, 'w')
 SpiderMain(UrlFile, FpError, FpOutput)
 
 #重新爬取Url，针对无法爬取的url
-FpError.write("Respider-----------------\n")
+FpError.write("-----Respider-----\n")
+print '-----respider-----\n'
 SpiderMain(ReUrlFile, FpError, FpOutput)
 
 FpError.write("stop:\t"+time.ctime()+"\n\n")
