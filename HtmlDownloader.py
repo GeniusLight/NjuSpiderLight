@@ -17,7 +17,7 @@ class Downloader(object):
             return None
 
         try:
-            html = requests.get(url, headers=headers)
+            html = requests.get(url, headers=headers, timeout=90)# seconds Requests will wait
         except Exception as e:
             fp_error.write("location1"+"\t"+url+'\t\t'+str(e)+'\t'+"\n")
             with open(ReUrlFile, 'a') as csvfile:
