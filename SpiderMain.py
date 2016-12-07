@@ -7,13 +7,13 @@ import time
 import os
 
 
-def SpiderMain(File, FpError, FpOutput):
+def SpiderMain(SpiderFile, FpError, FpOutput):
     Downloader = HtmlDownloader.Downloader()
     SimpleDeal = HtmlDeal.SimpleDeal()
     OutputContent = HtmlOutput.OutputContent()
     InputUrl = HtmlInput.InputUrl()
-    IdList = InputUrl.ReadId(File)
-    UrlList = InputUrl.ReadUrl(File)
+    IdList = InputUrl.ReadId(SpiderFile)
+    UrlList = InputUrl.ReadUrl(SpiderFile)
     num = len(UrlList)
 
     for i in range(num):
@@ -32,7 +32,7 @@ UrlFile = "id_url.csv"
 ReUrlFile = 'OutputUrl.csv'
 
 if os.path.exists(ReUrlFile):
-    os.remove(ReUrlFile)#删除上一次遗留的链接
+    os.remove(ReUrlFile)#删除上一次重新爬取的链接
 else:
     pass
 
