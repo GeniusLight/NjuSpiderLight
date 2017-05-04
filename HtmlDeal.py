@@ -1,6 +1,9 @@
 # -*- coding:utf-8 -*-
 from bs4 import BeautifulSoup
 import json
+import sys
+reload(sys)
+sys.setdefaultencoding("utf-8")
 
 
 class SimpleTrs(object):
@@ -61,7 +64,12 @@ class SimpleDeal(object):
         fp_record.write(html_text)
         fp_record.write("\n--------------------------------------\n")
         for string in soup.stripped_strings:
-            index = html_text.find(string, start)
+            try:
+                index = html_text.find(string, start)
+            except Exception as e:
+                fp_error.write("location3:"+str(e)+"\t"+string+"\n")
+                continue
+
             if index == -1:
                  # 出现读出index无法找到
                 fp_error.write("location3:"+"not found index:"+url+"\t"+string+"\n")
@@ -99,7 +107,12 @@ class SimpleDeal(object):
         out_pots.append([title, url])
 
         for string in soup.stripped_strings:
-            index = html_text.find(string, start)
+            try:
+                index = html_text.find(string, start)
+            except Exception as e:
+                fp_error.write("location3:"+str(e)+"\t"+string+"\n")
+                continue
+
             if index == -1:
                  # 出现读出index无法找到
                 fp_error.write("location4:"+"not found index:"+url+"\t"+string+"\n")

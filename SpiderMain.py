@@ -81,7 +81,7 @@ for i in model_list:
 model = raw_input("choose the model num:")
 
 if int(model) == 1:
-    paser_url = 'https://www.nju.edu.cn/3642/list.htm'
+    paser_url = 'http://stuex.nju.edu.cn/a/xzzx/2015/0727/165.html'
     HtmlParser(paser_url, FpError)
 
     
