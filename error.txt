@@ -1081,3 +1081,470 @@ start:	Thu May 04 19:50:37 2017
 location3:not found index:https://www.nju.edu.cn/3642/list.htm	Copyright © Nanjing University All Rights Reserved
 stop:	Thu May 04 19:52:33 2017
 
+start:	Thu May 04 20:16:02 2017
+
+start:	Thu May 04 20:16:39 2017
+
+location1	http://stuex.nju.edu.cn/a/xzzx/2015/0828/635.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+location2	http://stuex.nju.edu.cn/en/a/guide_for_students	'NoneType' object has no attribute 'string'	
+location1	http://xiaoban.nju.edu.cn/1f/71/c742a8049/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location2	http://xiaoban.nju.edu.cn/20/63/c742a8291/page.htm	'NoneType' object has no attribute 'strip'	
+location2	http://xiaoban.nju.edu.cn/20/65/c742a8293/page.htm	'NoneType' object has no attribute 'strip'	
+location2	http://xiaoban.nju.edu.cn/20/85/c742a8325/page.htm	'NoneType' object has no attribute 'strip'	
+location1	http://stuex.nju.edu.cn/en/a/chief_scholars/school_of_government/20150810/608.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+-----Respider-----
+stop:	Thu May 04 20:45:49 2017
+
+start:	Thu May 04 21:19:17 2017
+
+start:	Thu May 04 21:19:55 2017
+
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	改革开放以来，南京大学在崭新的历史机遇中焕发出蓬勃的生机和活力，首批进入国家“211工程”、“985工程”建设序列。作为中国九所著名大学联盟（C9）的成员之一，南京大学师资力量雄厚、学科布局完善、科研水平突出，办学事业保持着良好的发展态势，获得了公认的社会影响和学术声誉。面向未来，南京大学以培育英才、追求真理、服务社会、传承创新文化为使命，致力于建设综合性、研究型、国际化的世界一流大学，努力为实现中华民族伟大复兴的中国梦与人类文明进步做出新的更大的贡献。
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Since China opened its door to the outside world, NJU has been full of vitality in meeting unprecedented historical challenges and opportunities. It was among the first top universities to be selected for prioritized support by the Central Government of China under “211 Project” and “985 Project”. As a member of the C9 League (an alliance of nine elite universities in China), NJU is known for its outstanding faculty, coordinated disciplines, and excellent research, and is recognized as a leading university with academic strength and social prestige. NJU’s mission is to cultivate talents, seek truth, serve society, and inherit and transmit Chinese culture. Its aim is to become a world-class research university, and to make contributions to the Chinese nation and the international community.
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“千人计划”创新人才29人、创业人才14人 29 “Global Experts Program” Innovation Scholars and 14 “Global Experts Program” Entrepreneur Talents
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“青年千人计划”入选者45人 45 “Global Young Experts Program” Scholars
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“973计划”和重大科学研究计划项目首席科学家36人次 36 Chief Professors of “973 Project” and key research projects
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“长江学者奖励计划”特聘教授、讲座教授115人 115 Special or Lecture Professors of “Cheung Kong Scholars Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“新世纪优秀人才支持计划”入选者238人 238 in MOE “New Century Outstanding Personnel Support Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Research Center for China’s New Literature
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	这里须特别提到的是，网页中，世界地图页的“合作院校留学说明”将为同学们提供海外各所院校的相关材料，包括fact sheet（留学指南）、网站信息、以及申请网页。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	另外，对于各个学校的了解，请同学们仔细查看“合作院校留学说明”栏目（世界地图页），在这里你可以找到任何你想去的学校。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	“各国办理手续”栏目融汇了历届交换生赴国外的签证和生活攻略，为将要赴国外交换的同学提供了很好的参考。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	“留学生活”栏目集结了历届交换生的生活体验和心得，以及来南大留学的外国留学生的南大印象。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	请同学们实时关注网页的“通知通告”，一旦有新的交换生项目信息，我们将及时发布上去。
+location4:not found index:http://stuex.nju.edu.cn/a/tbxm	中法“9+9”项目
+location4:not found index:http://stuex.nju.edu.cn/a/geleihuodong/20161012/1300.html	2016年10月9日晚上 18:30，2016年秋季学期“学伴计划”——外国交换生与南京大学学生见面晚会于仙林大学生活动中心揭开帷幕。本次晚会由南京大学AIC留学生俱乐部 & SIECA学生国际交流与合作协会主办，国际合作与交流处学生交流科的负责老师也应邀参加了晚会。
+location4:not found index:http://stuex.nju.edu.cn/a/geleihuodong/20161012/1300.html	此次见面晚会帮助交换生与其学伴更快地熟悉彼此，也促进了中外学生之间的互动和交流，也为“学伴计划”后续活动的顺利开展打下基础。此外，本次活动也利于加强中外学生的沟通学习，建立国际友谊，帮助留学生（交换生）更好地适应中国的学习与生活，同时也为南大学生增强外语沟通能力，扩大国际视野提供了平台。
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20160504/1132.html	巴黎高科中国招生项目宣讲会——南大专场（官方，一年一度）
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20160504/1132.html	Jean-François NAVINER（Télécom ParisTech巴黎高科国立高等电信学校国际关系处主任）
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20160504/1132.html	Cécile VIGOUROUX (ENSTA ParsTech巴黎高科高等先进技术学校国际关系处副主任)
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	”
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	4、若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	10、请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	Spring Quarter（2016年4月3日 – 6月15日）
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	项目具体信息，请参见“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	”
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	获得校荐资格的同学，须根据“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	”的要求，准备申请材料
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	1.由于邮件量较大，为了不耽误回复提问，请学生先点击以下“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	”网址：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	。（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	Winter Quarter（2016年1月6日—3月24日）
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	项目具体信息，请参见“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	”
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	获得校荐资格的同学，须根据“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	”的要求，准备申请材料
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	1.由于邮件量较大，为了不耽误回复提问，请学生先点击以下“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	”网址：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1351.html	3. 若涉及“official nomination letter from home university”， 则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1351.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1351.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问题汇总”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1351.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1351.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1351.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	-Social & Cultural activities
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	“问答在线”
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	1. 由于邮件量较大，为了不耽误回复提问，请学生先点击以下“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	”网址：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	4. 若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	10. 请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	1、登录学术学位研究生学籍与教学管理系统“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	”，点击“申报系统”— “国际交流”--“校际交流合作”，进行网上申请。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	4.校内申请截止日期：11月25日前向教务处交换生系统填报信息，研究生须向国际处报名，并填报“
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	”（见附件）
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	“问答在线”
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	1. 由于邮件量较大，为了不耽误回复提问，请学生先点击以下“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	”网址：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	4. 若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	10. 请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	“问答在线”
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	由于邮件量较大，为了不耽误回复提问，请学生先点击以下“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	”网址
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：stuex@nju.edu.cn
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	1、登录学术学位研究生学籍与教学管理系统“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	”，点击“申报系统”— “国际交流”--“校际交流合作”，进行网上申请。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	“问答在线”
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	“问答在线”
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。具体递交时间请关注邮件通知。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+start:	Thu May 04 21:23:04 2017
+
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	改革开放以来，南京大学在崭新的历史机遇中焕发出蓬勃的生机和活力，首批进入国家“211工程”、“985工程”建设序列。作为中国九所著名大学联盟（C9）的成员之一，南京大学师资力量雄厚、学科布局完善、科研水平突出，办学事业保持着良好的发展态势，获得了公认的社会影响和学术声誉。面向未来，南京大学以培育英才、追求真理、服务社会、传承创新文化为使命，致力于建设综合性、研究型、国际化的世界一流大学，努力为实现中华民族伟大复兴的中国梦与人类文明进步做出新的更大的贡献。
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Since China opened its door to the outside world, NJU has been full of vitality in meeting unprecedented historical challenges and opportunities. It was among the first top universities to be selected for prioritized support by the Central Government of China under “211 Project” and “985 Project”. As a member of the C9 League (an alliance of nine elite universities in China), NJU is known for its outstanding faculty, coordinated disciplines, and excellent research, and is recognized as a leading university with academic strength and social prestige. NJU’s mission is to cultivate talents, seek truth, serve society, and inherit and transmit Chinese culture. Its aim is to become a world-class research university, and to make contributions to the Chinese nation and the international community.
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“千人计划”创新人才29人、创业人才14人 29 “Global Experts Program” Innovation Scholars and 14 “Global Experts Program” Entrepreneur Talents
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“青年千人计划”入选者45人 45 “Global Young Experts Program” Scholars
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“973计划”和重大科学研究计划项目首席科学家36人次 36 Chief Professors of “973 Project” and key research projects
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“长江学者奖励计划”特聘教授、讲座教授115人 115 Special or Lecture Professors of “Cheung Kong Scholars Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“新世纪优秀人才支持计划”入选者238人 238 in MOE “New Century Outstanding Personnel Support Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Research Center for China’s New Literature
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	这里须特别提到的是，网页中，世界地图页的“合作院校留学说明”将为同学们提供海外各所院校的相关材料，包括fact sheet（留学指南）、网站信息、以及申请网页。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	另外，对于各个学校的了解，请同学们仔细查看“合作院校留学说明”栏目（世界地图页），在这里你可以找到任何你想去的学校。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	“各国办理手续”栏目融汇了历届交换生赴国外的签证和生活攻略，为将要赴国外交换的同学提供了很好的参考。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	“留学生活”栏目集结了历届交换生的生活体验和心得，以及来南大留学的外国留学生的南大印象。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	请同学们实时关注网页的“通知通告”，一旦有新的交换生项目信息，我们将及时发布上去。
+location4:not found index:http://stuex.nju.edu.cn/a/tbxm	中法“9+9”项目
+location4:not found index:http://stuex.nju.edu.cn/a/geleihuodong/20161012/1300.html	2016年10月9日晚上 18:30，2016年秋季学期“学伴计划”——外国交换生与南京大学学生见面晚会于仙林大学生活动中心揭开帷幕。本次晚会由南京大学AIC留学生俱乐部 & SIECA学生国际交流与合作协会主办，国际合作与交流处学生交流科的负责老师也应邀参加了晚会。
+location4:not found index:http://stuex.nju.edu.cn/a/geleihuodong/20161012/1300.html	此次见面晚会帮助交换生与其学伴更快地熟悉彼此，也促进了中外学生之间的互动和交流，也为“学伴计划”后续活动的顺利开展打下基础。此外，本次活动也利于加强中外学生的沟通学习，建立国际友谊，帮助留学生（交换生）更好地适应中国的学习与生活，同时也为南大学生增强外语沟通能力，扩大国际视野提供了平台。
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20160504/1132.html	巴黎高科中国招生项目宣讲会——南大专场（官方，一年一度）
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20160504/1132.html	Jean-François NAVINER（Télécom ParisTech巴黎高科国立高等电信学校国际关系处主任）
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20160504/1132.html	Cécile VIGOUROUX (ENSTA ParsTech巴黎高科高等先进技术学校国际关系处副主任)
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	”
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	4、若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	10、请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161130/1355.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	Spring Quarter（2016年4月3日 – 6月15日）
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	项目具体信息，请参见“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	”
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	获得校荐资格的同学，须根据“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	”的要求，准备申请材料
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	1.由于邮件量较大，为了不耽误回复提问，请学生先点击以下“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	”网址：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	。（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1235.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	Winter Quarter（2016年1月6日—3月24日）
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	项目具体信息，请参见“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	”
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	获得校荐资格的同学，须根据“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	”的要求，准备申请材料
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	1.由于邮件量较大，为了不耽误回复提问，请学生先点击以下“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	”网址：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20160919/1234.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1351.html	3. 若涉及“official nomination letter from home university”， 则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1351.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1351.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问题汇总”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1351.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1351.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1351.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	-Social & Cultural activities
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	“问答在线”
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161114/1350.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	1. 由于邮件量较大，为了不耽误回复提问，请学生先点击以下“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	”网址：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	4. 若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	10. 请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	1、登录学术学位研究生学籍与教学管理系统“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161114/1349.html	”，点击“申报系统”— “国际交流”--“校际交流合作”，进行网上申请。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	4.校内申请截止日期：11月25日前向教务处交换生系统填报信息，研究生须向国际处报名，并填报“
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	”（见附件）
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	“问答在线”
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1347.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	1. 由于邮件量较大，为了不耽误回复提问，请学生先点击以下“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	”网址：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	4. 若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	10. 请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161102/1341.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	“问答在线”
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1340.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	由于邮件量较大，为了不耽误回复提问，请学生先点击以下“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	”网址
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：stuex@nju.edu.cn
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	1、登录学术学位研究生学籍与教学管理系统“
+location4:not found index:http://stuex.nju.edu.cn/a/changqixiangmu/20161031/1338.html	”，点击“申报系统”— “国际交流”--“校际交流合作”，进行网上申请。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	“问答在线”
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161110/1346.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	“问答在线”
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。具体递交时间请关注邮件通知。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1343.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1342.html	“问答在线”
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1342.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1342.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1342.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1342.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1342.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1342.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1342.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161107/1342.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161028/1337.html	为了推进“一带一路”研究与建设事业的发展，培养优秀的专业人才，南京大学举办“院系国际合作伙伴项目”：“中巴‘一带一路’文化之旅冬令营”。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161028/1337.html	冬令营主要内容有：国内外著名学者学术演讲；研究生学术论坛；中国锦绣与陶瓷文化遗产考察。经费由承办方承担。现面向国外著名高校和国内“211”、“985”高校研究生招生。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161018/1322.html	1. 由于邮件量较大，为了不耽误回复提问，请学生先点击以下“
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161018/1322.html	”网址：
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161018/1322.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161018/1322.html	4. 若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161018/1322.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161018/1322.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161018/1322.html	10. 请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161018/1322.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：stuex@nju.edu.cn
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161018/1322.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161018/1322.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161008/1286.html	“问答在线”
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161008/1286.html	请在“问答在线”网页的检索框中输入你们问题中的一个关键词，点击“搜索”按钮检索相关相似问题的回答。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161008/1286.html	4.若涉及“official nomination letter from home university”，则统一由国际处出具。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161008/1286.html	“下载中心”下载表格填写）；该协议“监护人”一栏，须由父母或法定监护人亲笔签名，其他任何人员不得代签。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161008/1286.html	中的“出国留学”菜单下的“留学须知”和“具体流程”，以及“问答在线”菜单下的内容。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161008/1286.html	10.请依照国际处学生科网页“出国留学”菜单下的要求填写本科生/研究生因公出国（境）申请表”。申请表需在出国前提交至仙林校区扬州楼818室出入境科。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161008/1286.html	（请按照“学号+姓名+交流项目+交流时间”的格式命名邮件和附件，例：《121076433张三牛津大学2016年暑期》。）提交邮箱：
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161008/1286.html	（一）登录“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu/20161008/1286.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交。在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/duanqixiangmu	【研究生项目】【美国项目】关于2017年暑期赴美国史蒂文斯理工学院&G-MEO美国暑期创新创业实训营项目的通知
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160928/1267.html	）并提交申请材料（具体要求详见附件）。网上报名时“申报项目名称”请选择“国外合作项目”，项目渠道请选择“与哥斯达黎加大学联合奖学金”，项目代码“620047”，“留学身份”请选择“本科插班生”，“受理单位名称”请选择相应的受理机构。请各校于2016年10月24日前将单位正式推荐公函及人选名单寄/送至国家留学基金委美大事务部，
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160928/1267.html	（一）登陆“交换生管理系统”（http://desktop.nju.edu.cn:8080/exchangesystem/index），点击“交换项目”开始申请，根据要求认真填写信息并提交，在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160913/1228.html	参加“全国外语水平考试”（
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160913/1228.html	2016年9月25日—9月30日登录国家公派留学信息管理系统进行网上报名（
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160913/1228.html	（一）登陆“交换生管理系统”（http://desktop.nju.edu.cn:8080/exchangesystem/index），点击“交换项目”开始申请，根据要求认真填写信息并提交，在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160902/1210.html	今年10月26日至28日将在马来西亚举行“第二届马六甲海上丝绸之路文化论坛”，我校将有著名学者参加该论坛。为了做好论坛的各项工作，现征集我校学生志愿者。
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160902/1210.html	请有意报名的同学下载并填写“人员信息表”，如下表所示：
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160902/1210.html	请将填写好的“人员信息表”于9月9日前发送至国际处学生科邮箱：stuex@nju.edu.cn
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160829/1209.html	（一）登陆“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160829/1209.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交，在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160829/1208.html	（一）登陆“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160829/1208.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交，在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160829/1207.html	（一）登陆“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160829/1207.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交，在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160829/1206.html	（一）登陆“交换生管理系统”（
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160829/1206.html	），点击“交换项目”开始申请，根据要求认真填写信息并提交，在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160815/1192.html	参加“全国外语水平考试”（
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160815/1192.html	2016年9月25日—9月30日登录国家公派留学信息管理系统进行网上报名（
+location4:not found index:http://stuex.nju.edu.cn/a/tebiexiangmu/20160815/1192.html	（一）登陆“交换生管理系统”（http://desktop.nju.edu.cn:8080/exchangesystem/index），点击“交换项目”开始申请，根据要求认真填写信息并提交，在遴选过程中请及时关注学生申请的实时状态和交换生管理系统发布的通知。
+location4:not found index:http://stuex.nju.edu.cn/a/geleihuodong/20151120/764.html	在为期一周的参访交流中，我校师生代表一行受到了东京大学师生的热情接待。项目日方负责人、著名汉学家、东京大学刈间文俊教授为我校师生做了题为“教养教育要旨”的精彩讲座。刈间老师以信息化时代背景为切入，揭示了教养教育的要旨，即以传授获取知识的方法为手段，培养具有独立研究能力和综合素养的国际化人才。刈间老师的理念得到了南京大学师生的深刻认同，大家表示一定要以本次交流为契机，立足我校三三制教改实际，砥砺自我，成为卓越南大人。
+location4:not found index:http://stuex.nju.edu.cn/a/geleihuodong/20151120/764.html	游学期间，我校学子和东京大学学生组成共同研究学习组。以“正在失去而并未失去的文化符号”为主题，在日方安排下，参观了东京大学本乡校区及史料编纂所。并在每天参加精品课程之余，积极讨论并进行实地走访，走出校园，开展调查，收集第一手资料。在交流成果发表日，我校出访学生以流利的日语圆满完成了汇报任务，并表达了对两国教育交流的美好畅想，获得了日方的一致好评。通过充实有序的交流体验活动，我校师生不仅体验了东京大学的学习生活，而且开拓了研究视野，增进了两校和两国青年之间的友谊。
+location4:not found index:http://stuex.nju.edu.cn/a/geleihuodong/20151120/764.html	据悉，此次访问是两校交流活动的重要组成部分。自2005年起，南京大学引进了东京大学教养学部“表象文化”课程，整合跨学科资源，引入一系列学术研究前沿问题。东京大学每年3月份派遣教授团赴我校开展集中讲义活动，并自2010年起，每年11月份邀请南大师生代表赴日参加一周交流体验项目。本次体验交流活动是今年3月份东京大学集中讲义课程的重要组成和延续，并在国际处的精心组织下取得了圆满成功。（王举梅 颜子文 李稼澍）
+location4:not found index:http://stuex.nju.edu.cn/a/geleihuodong/20150811/583.html	联合国秘书长、南京大学名誉博士潘基文再次应邀来到南大，在南京大学—约翰斯•霍普金斯大学中美文化研究中心与中国青年代表对话，共同探讨全球共同发展以及青年在促进共同发展中发挥的作用。潘基文充分肯定了中国在实现青年发展中所作的贡献，也期望中国能继续为此而努力。潘基文与南大有着深厚的情谊，2010年10月31日，南京大学授予潘基文南大名誉博士学位。潘基文用端正漂亮的中文给南京大学师生留言——“获得南京大学名誉博士学位，我感到非常光荣。感谢南京大学对联合国的贡献，联合国是你们的伙伴”。 这段留言其实也是对60多年来南京大学与联合国种种缘分的高度概括。
+location4:not found index:http://stuex.nju.edu.cn/a/geleishouxu/20160625/1172.html	根据《关于2016年度南京大学“徐新国际交流奖学金”的评选通知》精神，经学生个人申请、院系推荐、学校组织材料初审、面试及捐赠方审核等程序，拟推荐傅宁等6名应届毕业生、沈家宇等6名在读本科生（第一批次）获得“徐新国际交流奖学金”，现予以公示（名单附后）。
+location4:not found index:http://stuex.nju.edu.cn/a/geleishouxu/20160625/1172.html	备注：“第一批次”从5月30日及以前获外方学校录取的在读交换生中选拔，5月30日后方获外方录取的在读交换生将另行通知。应届毕业生本年度不再遴选。
+location4:not found index:http://stuex.nju.edu.cn/a/geleishouxu/20160625/1172.html	附件: “徐新国际交流奖学金”获得者公示名单
+location4:not found index:http://stuex.nju.edu.cn/a/geleishouxu/20160625/1172.html	一、“徐新国际交流奖学金”获得者公示名单（应届毕业生）
+location4:not found index:http://stuex.nju.edu.cn/a/geleishouxu/20160625/1172.html	二、“徐新国际交流奖学金”获得者公示名单（在读本科生）
+location4:not found index:http://stuex.nju.edu.cn/a/geleishouxu/20160530/1157.html	经个人申请、院系推荐、学校组织材料初审，陈研等24名学生获得“徐新国际交流奖学金”面试资格。请获得面试资格者于5月31日9:00至行政北楼119室等候参加面试。面试名单如下（按姓氏拼音排序）：
+location4:not found index:http://stuex.nju.edu.cn/a/geleishouxu/20160528/1156.html	为鼓励广大同学赴国外一流高校开展国际交流，不断提高学生的创新精神和领导力，培养具有国际视野和仁爱理念的卓越人才，本年度，我校与今日资本创始人徐新校友开展合作，设立“徐新国际交流奖学金”，现将奖学金评选办法通知如下：
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20161009/1289.html	•
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20161009/1289.html	•
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20161009/1289.html	•
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20161009/1289.html	•
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20161009/1289.html	•
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20161009/1289.html	•
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20161009/1289.html	•
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshuominghui/20161009/1289.html	•
+start:	Thu May 04 21:23:53 2017
+
+start:	Thu May 04 21:25:11 2017
+
+start:	Thu May 04 21:25:54 2017
+
+start:	Thu May 04 21:26:53 2017
+
+start:	Thu May 04 21:27:26 2017
+
+start:	Thu May 04 21:28:26 2017
+
+start:	Thu May 04 21:30:17 2017
+
+start:	Thu May 04 21:32:16 2017
+
+start:	Thu May 04 21:33:29 2017
+
+start:	Thu May 04 21:33:55 2017
+
+start:	Thu May 04 21:35:46 2017
+
+start:	Thu May 04 21:37:28 2017
+
+start:	Thu May 04 21:39:23 2017
+
+start:	Thu May 04 21:40:10 2017
+
+start:	Thu May 04 21:40:44 2017
+
+start:	Thu May 04 21:41:42 2017
+
+start:	Thu May 04 21:43:43 2017
+
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	改革开放以来，南京大学在崭新的历史机遇中焕发出蓬勃的生机和活力，首批进入国家“211工程”、“985工程”建设序列。作为中国九所著名大学联盟（C9）的成员之一，南京大学师资力量雄厚、学科布局完善、科研水平突出，办学事业保持着良好的发展态势，获得了公认的社会影响和学术声誉。面向未来，南京大学以培育英才、追求真理、服务社会、传承创新文化为使命，致力于建设综合性、研究型、国际化的世界一流大学，努力为实现中华民族伟大复兴的中国梦与人类文明进步做出新的更大的贡献。
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Since China opened its door to the outside world, NJU has been full of vitality in meeting unprecedented historical challenges and opportunities. It was among the first top universities to be selected for prioritized support by the Central Government of China under “211 Project” and “985 Project”. As a member of the C9 League (an alliance of nine elite universities in China), NJU is known for its outstanding faculty, coordinated disciplines, and excellent research, and is recognized as a leading university with academic strength and social prestige. NJU’s mission is to cultivate talents, seek truth, serve society, and inherit and transmit Chinese culture. Its aim is to become a world-class research university, and to make contributions to the Chinese nation and the international community.
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“千人计划”创新人才29人、创业人才14人 29 “Global Experts Program” Innovation Scholars and 14 “Global Experts Program” Entrepreneur Talents
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“青年千人计划”入选者45人 45 “Global Young Experts Program” Scholars
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“973计划”和重大科学研究计划项目首席科学家36人次 36 Chief Professors of “973 Project” and key research projects
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“长江学者奖励计划”特聘教授、讲座教授115人 115 Special or Lecture Professors of “Cheung Kong Scholars Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“新世纪优秀人才支持计划”入选者238人 238 in MOE “New Century Outstanding Personnel Support Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Research Center for China’s New Literature
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	这里须特别提到的是，网页中，世界地图页的“合作院校留学说明”将为同学们提供海外各所院校的相关材料，包括fact sheet（留学指南）、网站信息、以及申请网页。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	另外，对于各个学校的了解，请同学们仔细查看“合作院校留学说明”栏目（世界地图页），在这里你可以找到任何你想去的学校。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	“各国办理手续”栏目融汇了历届交换生赴国外的签证和生活攻略，为将要赴国外交换的同学提供了很好的参考。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	“留学生活”栏目集结了历届交换生的生活体验和心得，以及来南大留学的外国留学生的南大印象。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	请同学们实时关注网页的“通知通告”，一旦有新的交换生项目信息，我们将及时发布上去。
+start:	Thu May 04 21:45:06 2017
+
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	改革开放以来，南京大学在崭新的历史机遇中焕发出蓬勃的生机和活力，首批进入国家“211工程”、“985工程”建设序列。作为中国九所著名大学联盟（C9）的成员之一，南京大学师资力量雄厚、学科布局完善、科研水平突出，办学事业保持着良好的发展态势，获得了公认的社会影响和学术声誉。面向未来，南京大学以培育英才、追求真理、服务社会、传承创新文化为使命，致力于建设综合性、研究型、国际化的世界一流大学，努力为实现中华民族伟大复兴的中国梦与人类文明进步做出新的更大的贡献。
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Since China opened its door to the outside world, NJU has been full of vitality in meeting unprecedented historical challenges and opportunities. It was among the first top universities to be selected for prioritized support by the Central Government of China under “211 Project” and “985 Project”. As a member of the C9 League (an alliance of nine elite universities in China), NJU is known for its outstanding faculty, coordinated disciplines, and excellent research, and is recognized as a leading university with academic strength and social prestige. NJU’s mission is to cultivate talents, seek truth, serve society, and inherit and transmit Chinese culture. Its aim is to become a world-class research university, and to make contributions to the Chinese nation and the international community.
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“千人计划”创新人才29人、创业人才14人 29 “Global Experts Program” Innovation Scholars and 14 “Global Experts Program” Entrepreneur Talents
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“青年千人计划”入选者45人 45 “Global Young Experts Program” Scholars
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“973计划”和重大科学研究计划项目首席科学家36人次 36 Chief Professors of “973 Project” and key research projects
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“长江学者奖励计划”特聘教授、讲座教授115人 115 Special or Lecture Professors of “Cheung Kong Scholars Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“新世纪优秀人才支持计划”入选者238人 238 in MOE “New Century Outstanding Personnel Support Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Research Center for China’s New Literature
+start:	Thu May 04 21:45:30 2017
+
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	改革开放以来，南京大学在崭新的历史机遇中焕发出蓬勃的生机和活力，首批进入国家“211工程”、“985工程”建设序列。作为中国九所著名大学联盟（C9）的成员之一，南京大学师资力量雄厚、学科布局完善、科研水平突出，办学事业保持着良好的发展态势，获得了公认的社会影响和学术声誉。面向未来，南京大学以培育英才、追求真理、服务社会、传承创新文化为使命，致力于建设综合性、研究型、国际化的世界一流大学，努力为实现中华民族伟大复兴的中国梦与人类文明进步做出新的更大的贡献。
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Since China opened its door to the outside world, NJU has been full of vitality in meeting unprecedented historical challenges and opportunities. It was among the first top universities to be selected for prioritized support by the Central Government of China under “211 Project” and “985 Project”. As a member of the C9 League (an alliance of nine elite universities in China), NJU is known for its outstanding faculty, coordinated disciplines, and excellent research, and is recognized as a leading university with academic strength and social prestige. NJU’s mission is to cultivate talents, seek truth, serve society, and inherit and transmit Chinese culture. Its aim is to become a world-class research university, and to make contributions to the Chinese nation and the international community.
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“千人计划”创新人才29人、创业人才14人 29 “Global Experts Program” Innovation Scholars and 14 “Global Experts Program” Entrepreneur Talents
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“青年千人计划”入选者45人 45 “Global Young Experts Program” Scholars
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“973计划”和重大科学研究计划项目首席科学家36人次 36 Chief Professors of “973 Project” and key research projects
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“长江学者奖励计划”特聘教授、讲座教授115人 115 Special or Lecture Professors of “Cheung Kong Scholars Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“新世纪优秀人才支持计划”入选者238人 238 in MOE “New Century Outstanding Personnel Support Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Research Center for China’s New Literature
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	这里须特别提到的是，网页中，世界地图页的“合作院校留学说明”将为同学们提供海外各所院校的相关材料，包括fact sheet（留学指南）、网站信息、以及申请网页。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	另外，对于各个学校的了解，请同学们仔细查看“合作院校留学说明”栏目（世界地图页），在这里你可以找到任何你想去的学校。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	“各国办理手续”栏目融汇了历届交换生赴国外的签证和生活攻略，为将要赴国外交换的同学提供了很好的参考。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	“留学生活”栏目集结了历届交换生的生活体验和心得，以及来南大留学的外国留学生的南大印象。
+location4:not found index:http://stuex.nju.edu.cn/a/cglx	请同学们实时关注网页的“通知通告”，一旦有新的交换生项目信息，我们将及时发布上去。
+start:	Thu May 04 21:45:51 2017
+
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	改革开放以来，南京大学在崭新的历史机遇中焕发出蓬勃的生机和活力，首批进入国家“211工程”、“985工程”建设序列。作为中国九所著名大学联盟（C9）的成员之一，南京大学师资力量雄厚、学科布局完善、科研水平突出，办学事业保持着良好的发展态势，获得了公认的社会影响和学术声誉。面向未来，南京大学以培育英才、追求真理、服务社会、传承创新文化为使命，致力于建设综合性、研究型、国际化的世界一流大学，努力为实现中华民族伟大复兴的中国梦与人类文明进步做出新的更大的贡献。
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Since China opened its door to the outside world, NJU has been full of vitality in meeting unprecedented historical challenges and opportunities. It was among the first top universities to be selected for prioritized support by the Central Government of China under “211 Project” and “985 Project”. As a member of the C9 League (an alliance of nine elite universities in China), NJU is known for its outstanding faculty, coordinated disciplines, and excellent research, and is recognized as a leading university with academic strength and social prestige. NJU’s mission is to cultivate talents, seek truth, serve society, and inherit and transmit Chinese culture. Its aim is to become a world-class research university, and to make contributions to the Chinese nation and the international community.
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“千人计划”创新人才29人、创业人才14人 29 “Global Experts Program” Innovation Scholars and 14 “Global Experts Program” Entrepreneur Talents
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“青年千人计划”入选者45人 45 “Global Young Experts Program” Scholars
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“973计划”和重大科学研究计划项目首席科学家36人次 36 Chief Professors of “973 Project” and key research projects
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“长江学者奖励计划”特聘教授、讲座教授115人 115 Special or Lecture Professors of “Cheung Kong Scholars Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“新世纪优秀人才支持计划”入选者238人 238 in MOE “New Century Outstanding Personnel Support Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Research Center for China’s New Literature
+start:	Thu May 04 21:47:37 2017
+
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	改革开放以来，南京大学在崭新的历史机遇中焕发出蓬勃的生机和活力，首批进入国家“211工程”、“985工程”建设序列。作为中国九所著名大学联盟（C9）的成员之一，南京大学师资力量雄厚、学科布局完善、科研水平突出，办学事业保持着良好的发展态势，获得了公认的社会影响和学术声誉。面向未来，南京大学以培育英才、追求真理、服务社会、传承创新文化为使命，致力于建设综合性、研究型、国际化的世界一流大学，努力为实现中华民族伟大复兴的中国梦与人类文明进步做出新的更大的贡献。
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Since China opened its door to the outside world, NJU has been full of vitality in meeting unprecedented historical challenges and opportunities. It was among the first top universities to be selected for prioritized support by the Central Government of China under “211 Project” and “985 Project”. As a member of the C9 League (an alliance of nine elite universities in China), NJU is known for its outstanding faculty, coordinated disciplines, and excellent research, and is recognized as a leading university with academic strength and social prestige. NJU’s mission is to cultivate talents, seek truth, serve society, and inherit and transmit Chinese culture. Its aim is to become a world-class research university, and to make contributions to the Chinese nation and the international community.
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“千人计划”创新人才29人、创业人才14人 29 “Global Experts Program” Innovation Scholars and 14 “Global Experts Program” Entrepreneur Talents
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“青年千人计划”入选者45人 45 “Global Young Experts Program” Scholars
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	“973计划”和重大科学研究计划项目首席科学家36人次 36 Chief Professors of “973 Project” and key research projects
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“长江学者奖励计划”特聘教授、讲座教授115人 115 Special or Lecture Professors of “Cheung Kong Scholars Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	教育部“新世纪优秀人才支持计划”入选者238人 238 in MOE “New Century Outstanding Personnel Support Program”
+location4:not found index:http://stuex.nju.edu.cn/a/lhlx/ndjj	Research Center for China’s New Literature

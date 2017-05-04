@@ -7,7 +7,7 @@ import time
 import os
 
 
-def SpiderMain(SpiderFile, FpError, FpOutput):
+def Spider1(SpiderFile, FpError, FpOutput):
     Downloader = HtmlDownloader.Downloader()
     SimpleDeal = HtmlDeal.SimpleDeal()
     OutputContent = HtmlOutput.OutputContent()
@@ -24,6 +24,25 @@ def SpiderMain(SpiderFile, FpError, FpOutput):
         else:
             OutputS = SimpleDeal.Method1(UrlList[i], html_text, FpError)
             OutputContent.OutputEs(OutputS, int(IdList[i]), FpOutput)
+
+
+def Spider2(SpiderFile, FpError, FpOutput):
+    Downloader = HtmlDownloader.Downloader()
+    SimpleDeal = HtmlDeal.SimpleDeal()
+    OutputContent = HtmlOutput.OutputContent()
+    InputUrl = HtmlInput.InputUrl()
+    IdList = InputUrl.ReadId(SpiderFile)
+    UrlList = InputUrl.ReadUrl(SpiderFile)
+    num = len(UrlList)
+
+    for i in range(num):
+        print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
+        html_text = Downloader.StaticDownload(UrlList[i], int(IdList[i]), FpError)
+        if html_text == None:
+            pass
+        else:
+            out_pots = SimpleDeal.Method3(UrlList[i], html_text, FpError)
+            OutputContent.OutputEsNew(out_pots, int(IdList[i]), FpOutput)
 
 
 def HtmlParser(paser_url, FpError):
@@ -69,17 +88,24 @@ if int(model) == 1:
 
 elif int(model) == 2:
     # 第一次爬取Url
-    SpiderMain(UrlFile, FpError, FpOutput)
+    Spider1(UrlFile, FpError, FpOutput)
     if os.path.exists(ReUrlFile):
         # 重新爬取Url，针对无法爬取的url
         FpError.write("-----Respider-----\n")
         print '-----respider-----\n'
-        SpiderMain(ReUrlFile, FpError, FpOutput)
+        Spider1(ReUrlFile, FpError, FpOutput)
     else:
         print 'No Connection aborted part'
 
 elif int(model)  == 3:
-    print "still in deveopment"
+    Spider2(UrlFile, FpError, FpOutput)
+    if os.path.exists(ReUrlFile):
+        # 重新爬取Url，针对无法爬取的url
+        FpError.write("-----Respider-----\n")
+        print '-----respider-----\n'
+        Spider2(ReUrlFile, FpError, FpOutput)
+    else:
+        print 'No Connection aborted part'
 
 else:
     print "The no exist model\n"

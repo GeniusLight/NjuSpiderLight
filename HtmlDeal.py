@@ -10,8 +10,9 @@ class SimpleTrs(object):
         self.url = url
 
 
+
 class SimpleDeal(object):
-    def Method1(self, url, html_text, fp_error):
+    def Method1(self, url, html_text, fp_error):#简单地提取网页的信息
         if html_text is None:
             OutputS = SimpleTrs(None, None, url)
             return OutputS
@@ -42,7 +43,7 @@ class SimpleDeal(object):
         return OutputS
 
 
-    def Method2(self, url, html_text, fp_error):
+    def Method2(self, url, html_text, fp_error):#画图
         fp_record = open('record.txt','w')
         start = 0;
         num = 0;
@@ -56,7 +57,6 @@ class SimpleDeal(object):
         for x in style:  # 判断style标签是否包含文本，若有，直接置为空
             if x.string != None:
                 x.string.replace_with(" ")
-
 
         fp_record.write(html_text)
         fp_record.write("\n--------------------------------------\n")
@@ -75,3 +75,38 @@ class SimpleDeal(object):
                 fp_record.write(string+"\n") 
 
         return plot_pots
+
+
+    def Method3(self, url, html_text, fp_error):#简单地提取网页的信息
+        out_pots = []
+        start = 0
+        html_text = html_text.replace('&nbsp;', '') #处理源码中不需要的字符
+        html_text = html_text.replace('\s*', ',')
+        html_text = html_text.replace('&emsp;', ',')
+
+        soup = BeautifulSoup(html_text, "lxml")
+
+        style = soup.find_all("style")  # 找到所有script的标签
+        for x in style:  # 判断style标签是否包含文本，若有，直接置为空
+            if x.string != None:
+                x.string.replace_with(" ")
+
+        try:
+            title = soup.title.string.strip()
+        except Exception as e:
+            fp_error.write("location4"+"\t"+url + '\t' + str(e) + '\t' + "\n")  # 出现读出title为空的情况，不太明白
+            title = "None"
+        out_pots.append([title, url])
+
+        for string in soup.stripped_strings:
+            index = html_text.find(string, start)
+            if index == -1:
+                 # 出现读出index无法找到
+                fp_error.write("location4:"+"not found index:"+url+"\t"+string+"\n")
+            else:
+                string_len = len(string)
+                start = index + string_len;
+                out_pots.append([index, string_len, string])
+
+        return out_pots
+
