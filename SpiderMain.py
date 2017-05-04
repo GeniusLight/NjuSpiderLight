@@ -5,6 +5,7 @@ import HtmlDownloader
 import HtmlDeal
 import time
 import os
+import matplotlib.pyplot as plt
 
 
 def SpiderMain(SpiderFile, FpError, FpOutput):
@@ -50,7 +51,12 @@ for i in model_list:
 model = raw_input("choose the model num:")
 
 if int(model) == 1:
-    print 'start test'
+    "\ntest the plot\n"
+    X1 = range(0, 50)
+    Y1 = [num**2 for num in X1] # y = x^2
+    plt.figure(1)
+    plt.plot(X1,Y1)
+    plt.show()
 
 elif int(model) == 2:
     # 第一次爬取Url
