@@ -5,7 +5,6 @@ import HtmlDownloader
 import HtmlDeal
 import time
 import os
-import matplotlib.pyplot as plt
 
 
 def SpiderMain(SpiderFile, FpError, FpOutput):
@@ -25,6 +24,18 @@ def SpiderMain(SpiderFile, FpError, FpOutput):
         else:
             OutputS = SimpleDeal.Method1(UrlList[i], html_text, FpError)
             OutputContent.OutputEs(OutputS, int(IdList[i]), FpOutput)
+
+
+def HtmlParser(paser_url, FpError):
+    Downloader = HtmlDownloader.Downloader()
+    SimpleDeal = HtmlDeal.SimpleDeal()
+    OutputContent = HtmlOutput.OutputContent()
+    html_text = Downloader.StaticDownloadOne(paser_url, FpError)
+    if html_text == None:
+        print "the url:%s is not exist\n" %(url)
+    else:
+        plot_pots = SimpleDeal.Method2(paser_url,html_text,FpError)
+    OutputContent.OutPlot(plot_pots)
 
 
 ErrorFile = "error.txt"#请手动清除
@@ -51,12 +62,10 @@ for i in model_list:
 model = raw_input("choose the model num:")
 
 if int(model) == 1:
-    "\ntest the plot\n"
-    X1 = range(0, 50)
-    Y1 = [num**2 for num in X1] # y = x^2
-    plt.figure(1)
-    plt.plot(X1,Y1)
-    plt.show()
+    paser_url = 'https://www.nju.edu.cn/3642/list.htm'
+    HtmlParser(paser_url, FpError)
+
+    
 
 elif int(model) == 2:
     # 第一次爬取Url
@@ -71,6 +80,9 @@ elif int(model) == 2:
 
 elif int(model)  == 3:
     print "still in deveopment"
+
+else:
+    print "The no exist model\n"
 
 
 FpError.write("stop:\t"+time.ctime()+"\n\n")
