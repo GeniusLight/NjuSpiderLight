@@ -1144,7 +1144,7 @@ num is:14
 position is:6640
 南大概况
 num is:15
-position is:254
+position is:6909
 南大简介
 num is:16
 position is:7118
@@ -1216,7 +1216,7 @@ num is:38
 position is:12570
 招生就业
 num is:39
-position is:12570
+position is:12839
 招生
 num is:40
 position is:13046
@@ -1351,235 +1351,235 @@ num is:83
 position is:23668
 在线支付
 num is:84
-position is:6640
+position is:24624
 南大概况
 num is:85
-position is:6909
+position is:24859
 南大简介
 num is:86
-position is:7118
+position is:25091
 现任领导
 num is:87
-position is:7398
+position is:25336
 党委书记
 num is:88
-position is:7609
+position is:25570
 校长
 num is:89
-position is:7928
+position is:25864
 历任领导
 num is:90
-position is:8185
+position is:26143
 南大校史
 num is:91
-position is:8394
+position is:26376
 统计概要
 num is:92
-position is:8665
+position is:26612
 国家重点学科
 num is:93
-position is:8869
+position is:26841
 省级重点学科
 num is:94
-position is:9073
+position is:27070
 一级学科
 num is:95
-position is:9275
+position is:27295
 博士点
 num is:96
-position is:9510
+position is:27551
 常用数据
 num is:97
-position is:9831
+position is:27850
 南大标识
 num is:98
-position is:10102
+position is:28086
 校训
 num is:99
-position is:10302
+position is:28307
 校标
 num is:100
-position is:10502
+position is:28528
 校歌
 num is:101
-position is:10698
+position is:28745
 校风
 num is:102
-position is:10991
+position is:29059
 视觉形象规范化标准
 num is:103
-position is:11391
+position is:29386
 院系部门
 num is:104
-position is:11660
+position is:29621
 党群组织
 num is:105
-position is:11869
+position is:29853
 行政部门
 num is:106
-position is:12078
+position is:30085
 院系设置
 num is:107
-position is:12287
+position is:30317
 直属单位
 num is:108
-position is:12570
+position is:30568
 招生就业
 num is:109
-position is:12570
+position is:30613
 招生
 num is:110
-position is:13046
+position is:31031
 奖助学
 num is:111
-position is:13254
+position is:31261
 就业创业
 num is:112
-position is:13537
+position is:31512
 人才培养
 num is:113
-position is:13827
+position is:31767
 师资队伍
 num is:114
-position is:14107
+position is:32013
 南大英才——两院院士
 num is:115
-position is:14324
+position is:32312
 南大英才——文科资深教...
 num is:116
-position is:14545
+position is:32565
 南大英才——人才计划获...
 num is:117
-position is:14766
+position is:32818
 南大英才——科技奖励获...
 num is:118
-position is:15105
+position is:33088
 本科生
 num is:119
-position is:15337
+position is:33342
 研究生
 num is:120
-position is:15571
+position is:33598
 留学生
 num is:121
-position is:15792
+position is:33841
 成人教育
 num is:122
-position is:16012
+position is:34084
 远程教育
 num is:123
-position is:16303
+position is:34398
 三三制教学
 num is:124
-position is:16587
+position is:34652
 科学研究
 num is:125
-position is:16856
+position is:34887
 科研动态
 num is:126
-position is:17169
+position is:35164
 自然科学
 num is:127
-position is:17400
+position is:35418
 哲学人文社科
 num is:128
-position is:17723
+position is:35721
 科研机构
 num is:129
-position is:18014
+position is:35977
 国家级
 num is:130
-position is:18235
+position is:36220
 省部级
 num is:131
-position is:18445
+position is:36452
 协同创新
 num is:132
-position is:18656
+position is:36686
 机构一览
 num is:133
-position is:19006
+position is:37012
 成果查询
 num is:134
-position is:19215
+position is:37245
 学术期刊
 num is:135
-position is:19498
+position is:37496
 合作交流
 num is:136
-position is:19774
+position is:37737
 国际合作
 num is:137
-position is:19983
+position is:37970
 合作办学
 num is:138
-position is:20203
+position is:38212
 学生交流
 num is:139
-position is:20425
+position is:38457
 成果转化
 num is:140
-position is:20708
+position is:38709
 文化生活
 num is:141
-position is:20977
+position is:38944
 南大青年
 num is:142
-position is:21194
+position is:39183
 工会
 num is:143
-position is:21409
+position is:39419
 小百合BBS
 num is:144
-position is:21620
+position is:39656
 微媒体
 num is:145
-position is:21902
+position is:39905
 校园服务
 num is:146
-position is:22171
+position is:40140
 电话黄页
 num is:147
-position is:22380
+position is:40372
 南大校历
 num is:148
-position is:22597
+position is:40611
 图书馆
 num is:149
-position is:22815
+position is:40851
 心理咨询
 num is:150
-position is:23024
+position is:41084
 后勤服务
 num is:151
-position is:23241
+position is:41323
 网络服务
 num is:152
-position is:23450
+position is:41556
 媒体采访
 num is:153
-position is:23668
+position is:41796
 在线支付
 num is:154
-position is:6640
+position is:42899
 南大概况
 num is:155
-position is:6909
+position is:43278
 南大简介
 num is:156
-position is:7118
+position is:43485
 现任领导
 num is:157
-position is:7928
+position is:43684
 历任领导
 num is:158
-position is:8185
+position is:43930
 南大校史
 num is:159
-position is:8394
+position is:44129
 统计概要
 num is:160
-position is:9831
+position is:44328
 南大标识
 num is:161
 position is:44661
@@ -1591,7 +1591,7 @@ num is:163
 position is:44989
 校长办公室
 num is:164
-position is:6909
+position is:45351
 南大简介
 num is:165
 position is:45426
@@ -1600,10 +1600,10 @@ num is:166
 position is:45473
 首页
 num is:167
-position is:6640
+position is:45536
 南大概况
 num is:168
-position is:6909
+position is:45614
 南大简介
 num is:169
 position is:46299
@@ -1663,10 +1663,10 @@ num is:187
 position is:48087
 “985
 num is:188
-position is:47722
+position is:48141
 工程
 num is:189
-position is:47804
+position is:48223
 ”
 num is:190
 position is:48274
@@ -1690,7 +1690,7 @@ num is:196
 position is:48925
 拥有仙林、鼓楼、浦口三个校区，有
 num is:197
-position is:46118
+position is:49021
 28
 num is:198
 position is:49088
@@ -1708,19 +1708,19 @@ num is:202
 position is:49468
 个，专业博士学位授权点
 num is:203
-position is:1342
+position is:49553
 1
 num is:204
 position is:49625
 个，硕士学位授权一级学科
 num is:205
-position is:15308
+position is:49717
 18
 num is:206
 position is:49784
 个，硕士学位授权二级学科点（不含一级学科覆盖点）
 num is:207
-position is:1886
+position is:49888
 9
 num is:208
 position is:49954
@@ -1732,34 +1732,34 @@ num is:210
 position is:50113
 个，博士学位授权二级学科点（不含一级学科覆盖点）
 num is:211
-position is:1493
+position is:50194
 3
 num is:212
 position is:50283
 个，博士后流动站
 num is:213
-position is:10968
+position is:50371
 38
 num is:214
 position is:50438
 个，国家级人才培养基地
 num is:215
-position is:7369
+position is:50529
 13
 num is:216
 position is:50596
 个；有一级学科国家重点学科
 num is:217
-position is:2787
+position is:50689
 8
 num is:218
 position is:50755
 个，二级学科国家重点学科
 num is:219
-position is:7369
+position is:50847
 13
 num is:220
-position is:49245
+position is:50914
 个，
 num is:221
 position is:50981
@@ -1768,127 +1768,127 @@ num is:222
 position is:51075
 个；有国家实验室（筹）
 num is:223
-position is:1519
+position is:51160
 1
 num is:224
-position is:49245
+position is:51232
 个，
 num is:225
-position is:18014
+position is:51299
 国家级
 num is:226
-position is:48528
+position is:51382
 2011
 num is:227
 position is:51451
 协同创新中心2
 num is:228
-position is:49245
+position is:51523
 个，
 num is:229
 position is:51590
 国家重点实验室
 num is:230
-position is:2083
+position is:51677
 7
 num is:231
 position is:51743
 个，教育部重点实验室
 num is:232
-position is:2787
+position is:51833
 8
 num is:233
 position is:51899
 个，江苏高校协同创新中心5个，江苏省重点（工程）实验室
 num is:234
-position is:1886
+position is:52006
 9
 num is:235
 position is:52072
 个，国家工程技术研究中心
 num is:236
-position is:1635
+position is:52158
 1
 num is:237
 position is:52230
 个，国家工程研究中心
 num is:238
-position is:1635
+position is:52314
 1
 num is:239
 position is:52386
 个，教育部工程中心
 num is:240
-position is:2782
+position is:52475
 2
 num is:241
 position is:52541
 个，环境保护部工程技术研究中心
 num is:242
-position is:1635
+position is:52630
 1
 num is:243
 position is:52702
 个，江苏省工程中心
 num is:244
-position is:47670
+position is:52791
 11
 num is:245
-position is:49245
+position is:52858
 个，
 num is:246
 position is:52925
 教育部人文社会科学重点研究基地
 num is:247
-position is:2775
+position is:53015
 4
 num is:248
 position is:53086
 个。学校拥有一支高素质的师资队伍，其中包括中国科学院院士
 num is:249
-position is:46118
+position is:53194
 28
 num is:250
 position is:53261
 人，中国工程院院士
 num is:251
-position is:1717
+position is:53327
 3
 num is:252
 position is:53416
 人，中国科学院外籍院士
 num is:253
-position is:1715
+position is:53501
 1
 num is:254
 position is:53573
 人，第三世界科学院院士
 num is:255
-position is:2775
+position is:53659
 4
 num is:256
 position is:53730
 人，俄罗斯科学院院士
 num is:257
-position is:1733
+position is:53814
 1
 num is:258
 position is:53886
 人，加拿大皇家科学院院士
 num is:259
-position is:1820
+position is:53972
 1
 num is:260
-position is:49185
+position is:54044
 人，
 num is:261
-position is:47668
+position is:54126
 “
 num is:262
 position is:54192
 千人计划
 num is:263
-position is:47804
+position is:54276
 ”
 num is:264
 position is:54342
@@ -1900,25 +1900,25 @@ num is:266
 position is:54493
 人、创业人才
 num is:267
-position is:24310
+position is:54573
 14
 num is:268
 position is:54646
 人，“外专千人计划”入选者2人，“万人计划”科技创新领军人才4人、百千万工程领军人才1人、教学名师2人，教育部
 num is:269
-position is:47668
+position is:54781
 “
 num is:270
 position is:54847
 长江学者奖励计划
 num is:271
-position is:47804
+position is:54935
 ”
 num is:272
 position is:55001
 特聘教授
 num is:273
-position is:2784
+position is:55085
 95
 num is:274
 position is:55152
@@ -1936,22 +1936,22 @@ num is:278
 position is:55475
 人，国家级教学名师
 num is:279
-position is:1925
+position is:55564
 10
 num is:280
 position is:55631
 人，国务院学位委员会学科评议组成员
 num is:281
-position is:46426
+position is:55728
 19
 num is:282
 position is:55795
 人，国家级有突出贡献的中青年科学、技术、管理专家
 num is:283
-position is:49232
+position is:55899
 16
 num is:284
-position is:54646
+position is:55966
 人，“
 num is:285
 position is:56049
@@ -1960,106 +1960,106 @@ num is:286
 position is:56117
 计划”和重大科学研究计划项目首席科学家
 num is:287
-position is:2003
+position is:56194
 36
 num is:288
 position is:56283
 人次，
 num is:289
-position is:47668
+position is:56366
 “
 num is:290
 position is:56432
 青年千人计划
 num is:291
-position is:47804
+position is:56518
 ”
 num is:292
-position is:54656
+position is:56584
 入选者
 num is:293
-position is:7368
+position is:56667
 91
 num is:294
 position is:56734
 人，“万人计划”青年拔尖人才8人，教育部
 num is:295
-position is:47668
+position is:56834
 “
 num is:296
 position is:56900
 新世纪优秀人才支持计划
 num is:297
-position is:47804
+position is:56991
 ”
 num is:298
-position is:32521
+position is:57057
 获得者
 num is:299
 position is:57140
 238
 num is:300
-position is:49185
+position is:57208
 人，
 num is:301
-position is:47668
+position is:57290
 “
 num is:302
 position is:57356
 百千万人才工程
 num is:303
-position is:47804
+position is:57443
 ”
 num is:304
 position is:57509
 国家级人选
 num is:305
-position is:7370
+position is:57594
 32
 num is:306
-position is:49234
+position is:57661
 人。
 num is:307
 position is:57911
 春风化雨、桃李芬芳。在过去的一个多世纪中，南京大学始终坚持育人为本，在各个历史阶段培养和造就了众多中华英才，他们在各自的领域建功立业、成就卓著。改革开放以来，南京大学在教育教学改革中进行了多方面的探索，形成了许多重要的教育思想和教学理念，在国内外高等教育界产生了重要的影响。当前，南京大学提出了“办中国最好的本科教育”的奋斗目标，坚持“学科建设与本科教学融通，通识教育与个性化培养融通，拓宽基础与强化实践融通，学会学习与学会做人融通” 的人才培养理念，不断深化创新人才培养机制改革，积极为社会各行各业培养具有创新精神、实践能力和国际视野的未来领军人才和拔尖创新人才。
 num is:308
-position is:6640
+position is:58442
 南
 num is:309
 position is:58493
 京大学的前身即
 num is:310
-position is:47668
+position is:58580
 “
 num is:311
 position is:58631
 以科学名世
 num is:312
-position is:47804
+position is:58716
 ”
 num is:313
 position is:58767
 ，格物致知、追求真理的科学精神和传统始终贯穿于南京大学的发展史中，成为南京大学办学最重要的特色。一代又一代的南大人孜孜求索、攀高攻坚、为国争光、为民造福，涌现出一大批优秀的科研成果，蜚声国内外学界。今日南京大学以
 num is:314
-position is:47668
+position is:58953
 “
 num is:315
 position is:59004
 加强应用、注重基础、发展边缘、促进联合
 num is:316
-position is:47804
+position is:59103
 ”
 num is:317
 position is:59154
 为方针，以
 num is:318
-position is:47668
+position is:59239
 “
 num is:319
 position is:59290
 基础研究面向国际学术前沿，应用研究面向国家战略需求和国民经济建设主战场、致力于解决关系国计民生的重大理论和现实问题
 num is:320
-position is:47804
+position is:59427
 ”
 num is:321
 position is:59478
@@ -2074,13 +2074,13 @@ num is:324
 position is:59829
 自上个世纪初建校以来，南京大学就一直是开展国际交流与合作最活跃的中国大学之一，与世界上众多一流大学和高水平科研机构建立了紧密的协作关系。其中，始建于
 num is:325
-position is:48369
+position is:59983
 20
 num is:326
-position is:47281
+position is:60035
 世纪
 num is:327
-position is:2937
+position is:60117
 80
 num is:328
 position is:60169
@@ -2092,7 +2092,7 @@ num is:330
 position is:60626
 全体南大人将始终保持奋发昂扬的精气神和朴茂平实的工作作风，深入贯彻习近平总书记关于“第一个南大”的指示精神，着力内涵发展，彰显南大特色，为把南京大学早日建成世界一流大学而努力奋斗
 num is:331
-position is:3778
+position is:60752
 ,
 num is:332
 position is:60846
@@ -2134,27 +2134,24 @@ num is:344
 position is:62684
 window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"2","bdSize":"24"},"share":{},"selectShare":{"bdContainerClass":null,"bdSelectMiniList":["qzone","tsina","tqq","renren","weixin"]}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
 num is:345
-position is:-1
-Copyright © Nanjing University All Rights Reserved
-num is:346
-position is:62978
+position is:63398
 |
-num is:347
+num is:346
 position is:63500
 苏ICP备10085945号
-num is:348
+num is:347
 position is:63541
 webmaster@nju.edu.cn
-num is:349
+num is:348
 position is:63799
 返回
-num is:350
+num is:349
 position is:63862
 原图
-num is:351
-position is:3888
+num is:350
+position is:63865
 /
-num is:352
+num is:351
 position is:64256
 $(function(){
 	// 初始化SDAPP

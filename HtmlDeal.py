@@ -65,13 +65,13 @@ class SimpleDeal(object):
             if index == -1:
                  # 出现读出index无法找到
                 fp_error.write("location3:"+"not found index:"+url+"\t"+string+"\n")
-            string_len = len(string)
-            start += string_len;
-            num+=1
-            plot_pots.append([index, string_len])
-
-            fp_record.write("num is:"+str(num)+"\n")
-            fp_record.write("position is:"+str(index)+"\n")
-            fp_record.write(string+"\n") 
+            else:
+                string_len = len(string)
+                start = index + string_len;
+                num+=1
+                plot_pots.append([index, string_len])
+                fp_record.write("num is:"+str(num)+"\n")
+                fp_record.write("position is:"+str(index)+"\n")
+                fp_record.write(string+"\n") 
 
         return plot_pots
