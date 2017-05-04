@@ -50,3 +50,7 @@ import re
 # url = 'http://stuex.nju.edu.cn/uploads/soft/160929/3-160929203359.pdf'
 # if re.match('(.*?)\.pdf', url):
 #     print 'ok'
+
+model = raw_input("model:")
+print model
+

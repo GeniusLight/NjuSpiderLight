@@ -40,16 +40,32 @@ FpError = open(ErrorFile, 'a')
 FpError.write("start:\t" + time.ctime() + "\n\n")
 FpOutput = open(OutputFile, 'w')
 
-# 第一次爬取Url
-SpiderMain(UrlFile, FpError, FpOutput)
 
-if os.path.exists(ReUrlFile):
-    # 重新爬取Url，针对无法爬取的url
-    FpError.write("-----Respider-----\n")
-    print '-----respider-----\n'
-    SpiderMain(ReUrlFile, FpError, FpOutput)
-else:
-    print 'No Connection aborted part'
+#choose model
+model_list = ["test model(1)","product model(2)","new feature model(3)"]
+print "-----The following model is:-----"
+for i in model_list:
+    print i
+
+model = raw_input("choose the model num:")
+
+if int(model) == 1:
+    print 'start test'
+
+elif int(model) == 2:
+    # 第一次爬取Url
+    SpiderMain(UrlFile, FpError, FpOutput)
+    if os.path.exists(ReUrlFile):
+        # 重新爬取Url，针对无法爬取的url
+        FpError.write("-----Respider-----\n")
+        print '-----respider-----\n'
+        SpiderMain(ReUrlFile, FpError, FpOutput)
+    else:
+        print 'No Connection aborted part'
+
+elif int(model)  == 3:
+    print "still in deveopment"
+
 
 FpError.write("stop:\t"+time.ctime()+"\n\n")
 FpError.close()
