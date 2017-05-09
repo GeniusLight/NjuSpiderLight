@@ -14368,3 +14368,486 @@ location4:not found index:http://stuex.nju.edu.cn/en/a/eramus_programmes	PhD exc
 -----Respider-----
 stop:	Fri May 05 00:34:21 2017
 
+start:	Fri May 05 18:04:09 2017
+
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshenghuo/2016/0602/1158.html	在七月份的期末考试阶段，我除了平时的课堂发表和习题考试之外，还使用日语写作了两篇学术论文，一篇为《训读与翻译中的诸问题》，一篇为《读丛札》。这两篇论文的写作，是对我的日语写作水平的一大考验，也是对日本的学术规范与体例的一次学习，在日本老师和同学的帮助之下，我成功地完成了论文，并得到了老师的肯定。最终，我所选择的七门课程都得到了优等评定。
+location4	http://stuex.nju.edu.cn/en/a/guide_for_students	'NoneType' object has no attribute 'string'	
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location4:not found index:http://xgc.nju.edu.cn/56/89/c1541a22153/page.htm	进一步加强高等学校学生资助工作机构建设，是推进和落实以国家助学贷款为主体的资助高校贫困家庭学生政策和措施的基础性工作。截至目前，部分高校已按要求成立了专门的学生资助管理中心，配备了专职工作人员。但是，多数高校的资助工作机构没有建立起来，专职工作人员配备不足，不能适应新形势下以国家助学贷款为主体的高校资助贫困家庭学生工作的需要。为进一步做好资助高校贫困家庭学生工作，根据《国务院办公厅转发教育部财政部中国人民银行银监会的通知》（国办发〔2004〕51号）的规定和国务院有关国家助学贷款工作会议的要求，现就进一步加强高校学生资助工作机构建设的有关问题通知如下：
+location4:not found index:http://xgc.nju.edu.cn/54/74/c1532a21620/page.htm	从宿舍保洁员到公共管理学院的办公室助理，他用最大的热忱面对每一份工作，认真完成任务。在公共管理学院学生会担任秘书长期间，策划多类特色项目，尤其是“公务员百分百”活动，成为我校一大特色。担任康平策划部部长，开展纪念长征胜利70周年的活动。此外，还有南京大学纪念抗日战争胜利六十周年的历史剧比赛；公共管理学院“一二•九”合唱团；并且利用暑假时间，参加南京大学苏北“大学生村官计划”社会实践调研团，真正从学校走到社会中去，切身的实践让他感受到才华得到发挥的愉悦，找到属于自己的一片天地。
+location4:not found index:http://xgc.nju.edu.cn/50/bd/c1520a20669/page.htm	$Z:EP  p#P LC0
+location4:not found index:http://xgc.nju.edu.cn/69/2d/c1519a26925/page.htm	教育部颁布《实施办法》，逐步构建了教师资格制度法律法规体系。
+location1	http://xgc.nju.edu.cn/69/d1/c1546a27089/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location4:not found index:http://xgc.nju.edu.cn/65/4f/c1519a25935/page.htm	2009年世界大学学术排名主要负责人程莹博士介绍，该排名所采用的排名方法和数据来源完全透明，所有信息都公布在排名网站上（http://www.arwu.org）。在排名体系中，校友获诺贝尔奖和菲尔兹奖数量占评价指标的10%，教师获诺贝尔奖和菲尔兹奖数量占20%，高引用率科学家人数占20%，在世界顶级刊物《科学》和《自然》上发表的论文数占20%，被SCI（科学引文索引）和SSCI（社会科学引文索引）收录的论文数占20%，人均科研成绩指标占10%。排名所采用的数据都来自第三方，比如诺贝尔奖和国际数学联合会的官方网站、国际性的论文数据库、各个国家的权威教育统计机构等，排名不采用任何由学校直接提供的数据。
+location4:not found index:http://xgc.nju.edu.cn/67/03/c1519a26371/page.htm	通知还要求，各地教育行政部门和学校要深入开展安全教育和演练。要充分利用教育部网站和全国中小学安全教育网提供的《春夏秋冬话安全》（春季篇）、《优秀课例集与教学资源包》、《气象防灾避险指南》、《应对地震灾害自救自护常识》、《电梯乘用安全宣传片》等资源，积极配合各地地震部门开展的“平安中国”防灾宣导系列公益活动，进一步普及安全知识，提高广大中小学生的安全意识和应急避险能力。要联系家长共同做好学生上下学路上的安全防范工作。
+location1	http://xiaoban.nju.edu.cn/25/2a/c752a9514/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/1d/a6/c742a7590/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/26/c9/c752a9929/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/26/c0/c752a9920/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xiaoban.nju.edu.cn/24/1e/c743a9246/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location4:not found index:http://xiaoban.nju.edu.cn/26/9b/c752a9883/page.htm	在过去的一年里，咱们举办了：
+location4:not found index:http://xiaoban.nju.edu.cn/1f/3b/c742a7995/page.htm	为贯彻落实中纪委等五部门《关于印发的通知》和教育部《关于印发的通知》等文件精神，2010年8月9日，学校召开了开展国有及国有控股企业“小金库”专项治理工作会议。会议由副校长潘毅同志主持并宣布了学校“小金库”专项治理领导小组名单，副校长薛海林同志对学校开展“小金库”专项治理工作进行了部署，党委副书记、纪委书记杨忠同志对治理工作提出了明确要求。学校全资和控股的企业负责人参加了会议。
+location4	http://xiaoban.nju.edu.cn/20/63/c742a8291/page.htm	'NoneType' object has no attribute 'strip'	
+location4	http://xiaoban.nju.edu.cn/20/65/c742a8293/page.htm	'NoneType' object has no attribute 'strip'	
+location4	http://xiaoban.nju.edu.cn/20/85/c742a8325/page.htm	'NoneType' object has no attribute 'strip'	
+location1	http://stuex.nju.edu.cn/en/a/chief_scholars/school_of_government/20150810/608.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+-----Respider-----
+stop:	Fri May 05 18:59:26 2017
+
+start:	Fri May 05 19:12:14 2017
+
+stop:	Fri May 05 19:12:20 2017
+
+start:	Fri May 05 19:12:52 2017
+
+stop:	Fri May 05 19:13:39 2017
+
+start:	Fri May 05 19:14:06 2017
+
+stop:	Fri May 05 19:16:02 2017
+
+start:	Fri May 05 19:16:04 2017
+
+stop:	Fri May 05 19:21:05 2017
+
+start:	Fri May 05 19:21:15 2017
+
+stop:	Fri May 05 19:21:38 2017
+
+start:	Fri May 05 19:22:05 2017
+
+stop:	Fri May 05 19:22:09 2017
+
+start:	Fri May 05 19:22:40 2017
+
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshenghuo/2016/0602/1158.html	在七月份的期末考试阶段，我除了平时的课堂发表和习题考试之外，还使用日语写作了两篇学术论文，一篇为《训读与翻译中的诸问题》，一篇为《读丛札》。这两篇论文的写作，是对我的日语写作水平的一大考验，也是对日本的学术规范与体例的一次学习，在日本老师和同学的帮助之下，我成功地完成了论文，并得到了老师的肯定。最终，我所选择的七门课程都得到了优等评定。
+location4	http://stuex.nju.edu.cn/en/a/guide_for_students	'NoneType' object has no attribute 'string'	
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location4:not found index:http://xgc.nju.edu.cn/56/89/c1541a22153/page.htm	进一步加强高等学校学生资助工作机构建设，是推进和落实以国家助学贷款为主体的资助高校贫困家庭学生政策和措施的基础性工作。截至目前，部分高校已按要求成立了专门的学生资助管理中心，配备了专职工作人员。但是，多数高校的资助工作机构没有建立起来，专职工作人员配备不足，不能适应新形势下以国家助学贷款为主体的高校资助贫困家庭学生工作的需要。为进一步做好资助高校贫困家庭学生工作，根据《国务院办公厅转发教育部财政部中国人民银行银监会的通知》（国办发〔2004〕51号）的规定和国务院有关国家助学贷款工作会议的要求，现就进一步加强高校学生资助工作机构建设的有关问题通知如下：
+location4:not found index:http://xgc.nju.edu.cn/54/74/c1532a21620/page.htm	从宿舍保洁员到公共管理学院的办公室助理，他用最大的热忱面对每一份工作，认真完成任务。在公共管理学院学生会担任秘书长期间，策划多类特色项目，尤其是“公务员百分百”活动，成为我校一大特色。担任康平策划部部长，开展纪念长征胜利70周年的活动。此外，还有南京大学纪念抗日战争胜利六十周年的历史剧比赛；公共管理学院“一二•九”合唱团；并且利用暑假时间，参加南京大学苏北“大学生村官计划”社会实践调研团，真正从学校走到社会中去，切身的实践让他感受到才华得到发挥的愉悦，找到属于自己的一片天地。
+location4:not found index:http://xgc.nju.edu.cn/50/bd/c1520a20669/page.htm	$Z:EP  p#P LC0
+location4:not found index:http://xgc.nju.edu.cn/69/2d/c1519a26925/page.htm	教育部颁布《实施办法》，逐步构建了教师资格制度法律法规体系。
+location4:not found index:http://xgc.nju.edu.cn/65/4f/c1519a25935/page.htm	2009年世界大学学术排名主要负责人程莹博士介绍，该排名所采用的排名方法和数据来源完全透明，所有信息都公布在排名网站上（http://www.arwu.org）。在排名体系中，校友获诺贝尔奖和菲尔兹奖数量占评价指标的10%，教师获诺贝尔奖和菲尔兹奖数量占20%，高引用率科学家人数占20%，在世界顶级刊物《科学》和《自然》上发表的论文数占20%，被SCI（科学引文索引）和SSCI（社会科学引文索引）收录的论文数占20%，人均科研成绩指标占10%。排名所采用的数据都来自第三方，比如诺贝尔奖和国际数学联合会的官方网站、国际性的论文数据库、各个国家的权威教育统计机构等，排名不采用任何由学校直接提供的数据。
+location4:not found index:http://xgc.nju.edu.cn/67/03/c1519a26371/page.htm	通知还要求，各地教育行政部门和学校要深入开展安全教育和演练。要充分利用教育部网站和全国中小学安全教育网提供的《春夏秋冬话安全》（春季篇）、《优秀课例集与教学资源包》、《气象防灾避险指南》、《应对地震灾害自救自护常识》、《电梯乘用安全宣传片》等资源，积极配合各地地震部门开展的“平安中国”防灾宣导系列公益活动，进一步普及安全知识，提高广大中小学生的安全意识和应急避险能力。要联系家长共同做好学生上下学路上的安全防范工作。
+location4:not found index:http://xiaoban.nju.edu.cn/26/9b/c752a9883/page.htm	在过去的一年里，咱们举办了：
+location4:not found index:http://xiaoban.nju.edu.cn/1f/3b/c742a7995/page.htm	为贯彻落实中纪委等五部门《关于印发的通知》和教育部《关于印发的通知》等文件精神，2010年8月9日，学校召开了开展国有及国有控股企业“小金库”专项治理工作会议。会议由副校长潘毅同志主持并宣布了学校“小金库”专项治理领导小组名单，副校长薛海林同志对学校开展“小金库”专项治理工作进行了部署，党委副书记、纪委书记杨忠同志对治理工作提出了明确要求。学校全资和控股的企业负责人参加了会议。
+location4	http://xiaoban.nju.edu.cn/20/63/c742a8291/page.htm	'NoneType' object has no attribute 'strip'	
+location4	http://xiaoban.nju.edu.cn/20/65/c742a8293/page.htm	'NoneType' object has no attribute 'strip'	
+location4	http://xiaoban.nju.edu.cn/20/85/c742a8325/page.htm	'NoneType' object has no attribute 'strip'	
+location1	http://stuex.nju.edu.cn/en/a/chief_scholars/school_of_government/20150810/608.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+-----Respider-----
+stop:	Fri May 05 20:07:33 2017
+
+start:	Sat May 06 08:37:44 2017
+
+location1	http://stuex.nju.edu.cn/a/duanqixiangmu/20161028/1337.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+location1	http://stuex.nju.edu.cn/a/xzzx/2015/0828/635.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+location4:not found index:http://stuex.nju.edu.cn/a/liuxueshenghuo/2016/0602/1158.html	在七月份的期末考试阶段，我除了平时的课堂发表和习题考试之外，还使用日语写作了两篇学术论文，一篇为《训读与翻译中的诸问题》，一篇为《读丛札》。这两篇论文的写作，是对我的日语写作水平的一大考验，也是对日本的学术规范与体例的一次学习，在日本老师和同学的帮助之下，我成功地完成了论文，并得到了老师的肯定。最终，我所选择的七门课程都得到了优等评定。
+location4	http://stuex.nju.edu.cn/en/a/guide_for_students	'NoneType' object has no attribute 'string'	
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	服务器错误
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	404 - 找不到文件或目录。
+location3:'utf8' codec can't decode byte 0xd5 in position 248: invalid continuation byte	您要查找的资源可能已被删除，已更改名称或者暂时不可用。
+location4:not found index:http://xgc.nju.edu.cn/56/89/c1541a22153/page.htm	进一步加强高等学校学生资助工作机构建设，是推进和落实以国家助学贷款为主体的资助高校贫困家庭学生政策和措施的基础性工作。截至目前，部分高校已按要求成立了专门的学生资助管理中心，配备了专职工作人员。但是，多数高校的资助工作机构没有建立起来，专职工作人员配备不足，不能适应新形势下以国家助学贷款为主体的高校资助贫困家庭学生工作的需要。为进一步做好资助高校贫困家庭学生工作，根据《国务院办公厅转发教育部财政部中国人民银行银监会的通知》（国办发〔2004〕51号）的规定和国务院有关国家助学贷款工作会议的要求，现就进一步加强高校学生资助工作机构建设的有关问题通知如下：
+location4:not found index:http://xgc.nju.edu.cn/54/74/c1532a21620/page.htm	从宿舍保洁员到公共管理学院的办公室助理，他用最大的热忱面对每一份工作，认真完成任务。在公共管理学院学生会担任秘书长期间，策划多类特色项目，尤其是“公务员百分百”活动，成为我校一大特色。担任康平策划部部长，开展纪念长征胜利70周年的活动。此外，还有南京大学纪念抗日战争胜利六十周年的历史剧比赛；公共管理学院“一二•九”合唱团；并且利用暑假时间，参加南京大学苏北“大学生村官计划”社会实践调研团，真正从学校走到社会中去，切身的实践让他感受到才华得到发挥的愉悦，找到属于自己的一片天地。
+location4:not found index:http://xgc.nju.edu.cn/50/bd/c1520a20669/page.htm	$Z:EP  p#P LC0
+location4:not found index:http://xgc.nju.edu.cn/69/2d/c1519a26925/page.htm	教育部颁布《实施办法》，逐步构建了教师资格制度法律法规体系。
+location4:not found index:http://xgc.nju.edu.cn/65/4f/c1519a25935/page.htm	2009年世界大学学术排名主要负责人程莹博士介绍，该排名所采用的排名方法和数据来源完全透明，所有信息都公布在排名网站上（http://www.arwu.org）。在排名体系中，校友获诺贝尔奖和菲尔兹奖数量占评价指标的10%，教师获诺贝尔奖和菲尔兹奖数量占20%，高引用率科学家人数占20%，在世界顶级刊物《科学》和《自然》上发表的论文数占20%，被SCI（科学引文索引）和SSCI（社会科学引文索引）收录的论文数占20%，人均科研成绩指标占10%。排名所采用的数据都来自第三方，比如诺贝尔奖和国际数学联合会的官方网站、国际性的论文数据库、各个国家的权威教育统计机构等，排名不采用任何由学校直接提供的数据。
+location4:not found index:http://xgc.nju.edu.cn/67/03/c1519a26371/page.htm	通知还要求，各地教育行政部门和学校要深入开展安全教育和演练。要充分利用教育部网站和全国中小学安全教育网提供的《春夏秋冬话安全》（春季篇）、《优秀课例集与教学资源包》、《气象防灾避险指南》、《应对地震灾害自救自护常识》、《电梯乘用安全宣传片》等资源，积极配合各地地震部门开展的“平安中国”防灾宣导系列公益活动，进一步普及安全知识，提高广大中小学生的安全意识和应急避险能力。要联系家长共同做好学生上下学路上的安全防范工作。
+location4:not found index:http://xiaoban.nju.edu.cn/26/9b/c752a9883/page.htm	在过去的一年里，咱们举办了：
+location4:not found index:http://xiaoban.nju.edu.cn/1f/3b/c742a7995/page.htm	为贯彻落实中纪委等五部门《关于印发的通知》和教育部《关于印发的通知》等文件精神，2010年8月9日，学校召开了开展国有及国有控股企业“小金库”专项治理工作会议。会议由副校长潘毅同志主持并宣布了学校“小金库”专项治理领导小组名单，副校长薛海林同志对学校开展“小金库”专项治理工作进行了部署，党委副书记、纪委书记杨忠同志对治理工作提出了明确要求。学校全资和控股的企业负责人参加了会议。
+location4	http://xiaoban.nju.edu.cn/20/63/c742a8291/page.htm	'NoneType' object has no attribute 'strip'	
+location4	http://xiaoban.nju.edu.cn/20/65/c742a8293/page.htm	'NoneType' object has no attribute 'strip'	
+location4	http://xiaoban.nju.edu.cn/20/85/c742a8325/page.htm	'NoneType' object has no attribute 'strip'	
+location1	http://stuex.nju.edu.cn/en/a/chief_scholars/school_of_government/20150810/608.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+-----Respider-----
+stop:	Sat May 06 09:20:14 2017
+
+start:	Tue May 09 20:40:01 2017
+
+location1	file:///E:/Light/Nova/NjuSearch2.0/%E6%96%87%E6%A1%A3%E6%8F%90%E5%8F%96/cx_extractor_python-master/cx_extractor_python-master/RawHtml/1.html		No connection adapters were found for 'file:///E:/Light/Nova/NjuSearch2.0/%E6%96%87%E6%A1%A3%E6%8F%90%E5%8F%96/cx_extractor_python-master/cx_extractor_python-master/RawHtml/1.html'	
+start:	Tue May 09 20:40:30 2017
+
+location1	file:///E:/Light/Nova/NjuSearch2.0/%E6%96%87%E6%A1%A3%E6%8F%90%E5%8F%96/cx_extractor_python-master/cx_extractor_python-master/RawHtml/1.html		No connection adapters were found for 'file:///E:/Light/Nova/NjuSearch2.0/%E6%96%87%E6%A1%A3%E6%8F%90%E5%8F%96/cx_extractor_python-master/cx_extractor_python-master/RawHtml/1.html'	
+start:	Tue May 09 20:40:40 2017
+
+location1	file:///E:/Light/Nova/NjuSearch2.0/%E6%96%87%E6%A1%A3%E6%8F%90%E5%8F%96/cx_extractor_python-master/cx_extractor_python-master/RawHtml/1.html		No connection adapters were found for 'file:///E:/Light/Nova/NjuSearch2.0/%E6%96%87%E6%A1%A3%E6%8F%90%E5%8F%96/cx_extractor_python-master/cx_extractor_python-master/RawHtml/1.html'	
+start:	Tue May 09 20:41:35 2017
+
+location1	file:///E:/Light/Nova/NjuSearch2.0/%E6%96%87%E6%A1%A3%E6%8F%90%E5%8F%96/cx_extractor_python-master/cx_extractor_python-master/RawHtml/1.html		No connection adapters were found for 'file:///E:/Light/Nova/NjuSearch2.0/%E6%96%87%E6%A1%A3%E6%8F%90%E5%8F%96/cx_extractor_python-master/cx_extractor_python-master/RawHtml/1.html'	
+stop:	Tue May 09 20:41:35 2017
+
+start:	Tue May 09 20:42:32 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 20:42:38 2017
+
+start:	Tue May 09 20:49:28 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 20:50:42 2017
+
+start:	Tue May 09 20:50:46 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+start:	Tue May 09 20:54:30 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 20:55:32 2017
+
+start:	Tue May 09 20:55:35 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 20:55:46 2017
+
+start:	Tue May 09 20:55:55 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 20:56:14 2017
+
+start:	Tue May 09 20:58:17 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 21:00:28 2017
+
+start:	Tue May 09 21:50:27 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 21:50:43 2017
+
+start:	Tue May 09 21:51:07 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 21:51:09 2017
+
+start:	Tue May 09 21:52:02 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 21:55:11 2017
+
+start:	Tue May 09 22:08:42 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:08:52 2017
+
+start:	Tue May 09 22:14:08 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:14:12 2017
+
+start:	Tue May 09 22:14:30 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:14:37 2017
+
+start:	Tue May 09 22:15:15 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:15:18 2017
+
+start:	Tue May 09 22:20:23 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:20:28 2017
+
+start:	Tue May 09 22:21:10 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:21:14 2017
+
+start:	Tue May 09 22:23:44 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:23:47 2017
+
+start:	Tue May 09 22:25:32 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+start:	Tue May 09 22:26:19 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:26:24 2017
+
+start:	Tue May 09 22:26:38 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:27:18 2017
+
+start:	Tue May 09 22:27:21 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:27:47 2017
+
+start:	Tue May 09 22:27:50 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:27:53 2017
+
+start:	Tue May 09 22:28:08 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:28:11 2017
+
+start:	Tue May 09 22:29:38 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:40:22 2017
+

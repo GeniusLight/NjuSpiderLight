@@ -1,9 +1,11 @@
 # -*- coding:utf-8 -*-
 from bs4 import BeautifulSoup
 import json
+import HTMLParser
 import sys
 reload(sys)
 sys.setdefaultencoding("utf-8")
+
 
 
 class SimpleTrs(object):
@@ -20,9 +22,9 @@ class SimpleDeal(object):
             OutputS = SimpleTrs(None, None, url)
             return OutputS
 
-        html_text = html_text.replace('&nbsp;', '') #处理源码中不需要的字符
-        html_text = html_text.replace('\s*', ',')
-        html_text = html_text.replace('&emsp;', ',')
+        # html_text = html_text.replace('&nbsp;', '') #处理源码中不需要的字符
+        # html_text = html_text.replace('\s*', ',')
+        # html_text = html_text.replace('&emsp;', ',')
 
         soup = BeautifulSoup(html_text, "lxml")
         script = soup.find_all("script")  # 找到所有script的标签
@@ -56,12 +58,17 @@ class SimpleDeal(object):
         html_text = html_text.replace('\s*', ',')
         html_text = html_text.replace('&emsp;', ',')
         soup = BeautifulSoup(html_text, "lxml")
+        script = soup.find_all("script")  # 找到所有script的标签
+        for x in script:  # 判断script标签是否包含文本，若有，直接置为空
+            if x.string != None:
+                x.string.replace_with(" ")
+
         style = soup.find_all("style")  # 找到所有script的标签
         for x in style:  # 判断style标签是否包含文本，若有，直接置为空
             if x.string != None:
                 x.string.replace_with(" ")
 
-        fp_record.write(html_text)
+        #fp_record.write(html_text)
         fp_record.write("\n--------------------------------------\n")
         for string in soup.stripped_strings:
             try:
@@ -78,9 +85,10 @@ class SimpleDeal(object):
                 start = index + string_len;
                 num+=1
                 plot_pots.append([index, string_len])
-                fp_record.write("num is:"+str(num)+"\n")
-                fp_record.write("position is:"+str(index)+"\n")
-                fp_record.write(string+"\n") 
+                #fp_record.write("num is:"+str(num)+"\n")
+                #fp_record.write("position is:"+str(index)+"\n")
+                #fp_record.write(string)
+                #fp_record.write("\n")
 
         return plot_pots
 
@@ -88,16 +96,24 @@ class SimpleDeal(object):
     def Method3(self, url, html_text, fp_error):#简单地提取网页的信息
         out_pots = []
         start = 0
-        html_text = html_text.replace('&nbsp;', '') #处理源码中不需要的字符
-        html_text = html_text.replace('\s*', ',')
-        html_text = html_text.replace('&emsp;', ',')
+        # html_text = html_text.replace('&nbsp;', '') #处理源码中不需要的字符
+        # html_text = html_text.replace('\s*', ',')
+        # html_text = html_text.replace('&emsp;', ',')
+        html_parser = HTMLParser.HTMLParser()
+        html_text = html_parser.unescape(html_text)
 
         soup = BeautifulSoup(html_text, "lxml")
-
+        script = soup.find_all("script")  # 找到所有script的标签
+        for x in script:  # 判断script标签是否包含文本，若有，直接置为空
+            if x.string != None:
+                x.string.replace_with(" ")
+                
         style = soup.find_all("style")  # 找到所有script的标签
         for x in style:  # 判断style标签是否包含文本，若有，直接置为空
             if x.string != None:
                 x.string.replace_with(" ")
+
+
 
         try:
             title = soup.title.string.strip()

@@ -6,6 +6,10 @@ import HtmlDeal
 import time
 import os
 
+ErrorFile = "error.txt"#请手动清除
+OutputFile = "result.json"
+UrlFile = "id_url.csv"
+ReUrlFile = 'OutputUrl.csv'
 
 def Spider1(SpiderFile, FpError, FpOutput):
     Downloader = HtmlDownloader.Downloader()
@@ -51,25 +55,10 @@ def HtmlParser(paser_url, FpError):
     OutputContent = HtmlOutput.OutputContent()
     html_text = Downloader.StaticDownloadOne(paser_url, FpError)
     if html_text == None:
-        print "the url:%s is not exist\n" %(url)
+        print "the url:%s is not exist\n" %(paser_url)
     else:
         plot_pots = SimpleDeal.Method2(paser_url,html_text,FpError)
-    OutputContent.OutPlot(plot_pots)
-
-
-ErrorFile = "error.txt"#请手动清除
-OutputFile = "result.json"
-UrlFile = "id_url.csv"
-ReUrlFile = 'OutputUrl.csv'
-
-if os.path.exists(ReUrlFile):
-    os.remove(ReUrlFile)#删除上一次重新爬取的链接
-else:
-    pass
-
-FpError = open(ErrorFile, 'a')
-FpError.write("start:\t" + time.ctime() + "\n\n")
-FpOutput = open(OutputFile, 'w')
+        OutputContent.OutPlot(plot_pots)
 
 
 #choose model
@@ -81,13 +70,27 @@ for i in model_list:
 model = raw_input("choose the model num:")
 
 if int(model) == 1:
-    paser_url = 'http://stuex.nju.edu.cn/a/xzzx/2015/0727/165.html'
+    FpError = open(ErrorFile, 'a')
+    FpError.write("start:\t" + time.ctime() + "\n\n")
+
+    paser_url = 'http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html'
     HtmlParser(paser_url, FpError)
+
+    FpError.write("stop:\t"+time.ctime()+"\n\n")
+    FpError.close()
 
     
 
 elif int(model) == 2:
     # 第一次爬取Url
+    if os.path.exists(ReUrlFile):
+        os.remove(ReUrlFile)#删除上一次重新爬取的链接
+    else:
+        pass
+    FpError = open(ErrorFile, 'a')
+    FpError.write("start:\t" + time.ctime() + "\n\n")
+    FpOutput = open(OutputFile, 'w')
+
     Spider1(UrlFile, FpError, FpOutput)
     if os.path.exists(ReUrlFile):
         # 重新爬取Url，针对无法爬取的url
@@ -97,7 +100,20 @@ elif int(model) == 2:
     else:
         print 'No Connection aborted part'
 
+    FpError.write("stop:\t"+time.ctime()+"\n\n")
+    FpError.close()
+    FpOutput.close()
+
+
 elif int(model)  == 3:
+    if os.path.exists(ReUrlFile):
+        os.remove(ReUrlFile)#删除上一次重新爬取的链接
+    else:
+        pass
+    FpError = open(ErrorFile, 'a')
+    FpError.write("start:\t" + time.ctime() + "\n\n")
+    FpOutput = open(OutputFile, 'w')
+
     Spider2(UrlFile, FpError, FpOutput)
     if os.path.exists(ReUrlFile):
         # 重新爬取Url，针对无法爬取的url
@@ -107,10 +123,10 @@ elif int(model)  == 3:
     else:
         print 'No Connection aborted part'
 
+    FpError.write("stop:\t"+time.ctime()+"\n\n")
+    FpError.close()
+    FpOutput.close()
+
 else:
     print "The no exist model\n"
 
-
-FpError.write("stop:\t"+time.ctime()+"\n\n")
-FpError.close()
-FpOutput.close()

@@ -14,9 +14,10 @@ class SimpleTrs(object):
 
 class OutputContent(object):
 	def __init__(self):
-		self.limit_len = 4
-		self.limit_ratio = 0.1
-		self.limit_num = 8
+		self.limit_len = 6
+		self.limit_ratio = 100
+		self.limit_num = 4
+		self.max_num = 10
 	
 	def OutputEs(self, content, id, FpOutput):
 		json_data = {"create": {"_index": "njusearch3", "_type": "test1", "_id": id}}
@@ -37,11 +38,12 @@ class OutputContent(object):
 			record_ratio.append(1.0*num1/num2)
 
 		for i in range(1, num_pots-2):
-			if(abs(record_ratio[i]) <= self.limit_ratio):
+			if(abs(record_ratio[i]) <= self.limit_ratio and cal_num < self.max_num):
 				cal_num += 1
 			else:
 				if(cal_num > self.limit_num):
-					out_pots[i-cal_num:i] = [0,0]
+					for j in range(i-cal_num, i):
+						out_pots[j] = 0
 					cal_num = 0
 				else:
 					cal_num = 0
@@ -74,17 +76,19 @@ class OutputContent(object):
 			num2 = plot_pots[i+1][0] - plot_pots[i][0]#作为分母
 			record_ratio.append(1.0*num1/num2)
 			print 1.0*num1/num2
-			print "\n"
+			#print "\n"
 
 		for i in range(num_pots-1):
-			if(abs(record_ratio[i]) <= self.limit_ratio):
+			if(abs(record_ratio[i]) <= self.limit_ratio and cal_num < self.max_num):
 				cal_num += 1
 			else:
 				if(cal_num > self.limit_num):
-					plot_pots[i-cal_num:i] = [0,0]
-					cal_num = 0
+					for j in range(i-cal_num, i):
+						plot_pots[j] = 0
+					cal_num = 1
+					print "-----------------------"
 				else:
-					cal_num = 0
+					cal_num = 1
 
 		for pots in plot_pots:
 			if isinstance(pots,list):
