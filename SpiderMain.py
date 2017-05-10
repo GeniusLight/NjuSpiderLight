@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-
+    # -*- coding:utf-8 -*-
 import HtmlInput
 import HtmlOutput
 import HtmlDownloader
@@ -60,9 +60,23 @@ def HtmlParser(paser_url, FpError):
         plot_pots = SimpleDeal.Method2(paser_url,html_text,FpError)
         OutputContent.OutPlot(plot_pots)
 
+def LocalHtmlParser(paser_url, FpError):
+    Downloader = HtmlDownloader.Downloader()
+    SimpleDeal = HtmlDeal.SimpleDeal()
+    OutputContent = HtmlOutput.OutputContent()
+    html_text = open(paser_url, 'r')
+    if html_text == None:
+        print "the url:%s is not exist\n" %(paser_url)
+    else:
+        plot_pots = SimpleDeal.Method2(paser_url,html_text,FpError)
+        OutputContent.OutPlot(plot_pots)
+
 
 #choose model
-model_list = ["test model(1)","product model(2)","new feature model(3)"]
+model_list = ["test plot model(1)",
+"product model(2)",
+"new feature model(3)",
+"test the extract method(4)"]
 print "-----The following model is:-----"
 for i in model_list:
     print i
@@ -127,6 +141,19 @@ elif int(model)  == 3:
     FpError.close()
     FpOutput.close()
 
+elif int(model) == 4:
+    FpError = open(ErrorFile, 'a')
+    FpError.write("start:\t" + time.ctime() + "\n\n")
+
+    paser_url = "file:///E:/Light/Nova/NjuSearch2.0/NjuSpiderLight/1.html"
+    HtmlParser(paser_url, FpError)
+
+    FpError.write("stop:\t"+time.ctime()+"\n\n")
+    FpError.close()
+    
+
 else:
     print "The no exist model\n"
+
+
 

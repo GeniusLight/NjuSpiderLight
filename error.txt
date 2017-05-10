@@ -14851,3 +14851,68 @@ location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	
 location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
 stop:	Tue May 09 22:40:22 2017
 
+start:	Tue May 09 22:43:27 2017
+
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 正文
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	> 查看更多
+location3:not found index:http://money.163.com/15/0521/05/AQ46OS1Q00253B0H.html	©
+stop:	Tue May 09 22:43:31 2017
+
+start:	Tue May 09 22:47:02 2017
+
+start:	Tue May 09 22:47:16 2017
+
+location1	E:\Light\Nova\NjuSearch2.0\NjuSpiderLight\RawHtml.html		No connection adapters were found for 'E:\Light\Nova\NjuSearch2.0\NjuSpiderLight\RawHtml.html'	
+stop:	Tue May 09 22:47:16 2017
+
+start:	Tue May 09 22:47:57 2017
+
+location1	E:\Light\Nova\NjuSearch2.0\NjuSpiderLight\RawHtml.html		No connection adapters were found for 'E:\Light\Nova\NjuSearch2.0\NjuSpiderLight\RawHtml.html'	
+stop:	Tue May 09 22:47:57 2017
+
+start:	Tue May 09 22:51:26 2017
+
+location1	E:\Light\Nova\NjuSearch2.0\NjuSpiderLight\RawHtml.html		No connection adapters were found for 'E:\Light\Nova\NjuSearch2.0\NjuSpiderLight\RawHtml.html'	
+stop:	Tue May 09 22:51:26 2017
+
+start:	Tue May 09 22:52:27 2017
+
+location1	RawHtml.html		Invalid URL 'RawHtml\x01.html': No schema supplied. Perhaps you meant http://RawHtml.html?	
+stop:	Tue May 09 22:52:27 2017
+
+start:	Tue May 09 22:53:12 2017
+
+start:	Tue May 09 22:53:53 2017
+
+start:	Tue May 09 22:54:14 2017
+
+location1	RawHtml.html		Invalid URL 'RawHtml\x01.html': No schema supplied. Perhaps you meant http://RawHtml.html?	
+stop:	Tue May 09 22:54:14 2017
+
+start:	Tue May 09 22:54:37 2017
+
+location1	RawHtml.html		Invalid URL 'RawHtml\x01.html': No schema supplied. Perhaps you meant http://RawHtml.html?	
+stop:	Tue May 09 22:54:37 2017
+
+start:	Tue May 09 22:55:08 2017
+
+start:	Tue May 09 22:55:21 2017
+
+start:	Tue May 09 22:55:46 2017
+
+start:	Tue May 09 22:57:42 2017
+
+location1	1.html		Invalid URL '1.html': No schema supplied. Perhaps you meant http://1.html?	
+stop:	Tue May 09 22:57:42 2017
+
+start:	Tue May 09 22:59:18 2017
+
+location1	file:///E:/Light/Nova/NjuSearch2.0/NjuSpiderLight/1.html		No connection adapters were found for 'file:///E:/Light/Nova/NjuSearch2.0/NjuSpiderLight/1.html'	
+stop:	Tue May 09 22:59:18 2017
+
