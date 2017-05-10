@@ -5,6 +5,8 @@ import HtmlDownloader
 import HtmlDeal
 import time
 import re
+import sys
+import os
 
 # url = 'http://stuex.nju.edu.cn/'
 # id = 1
@@ -51,8 +53,7 @@ import re
 # if re.match('(.*?)\.pdf', url):
 #     print 'ok'
 
-model = raw_input("model:")
-print model
-
+print sys.path[0]
+print os.path.join(sys.path[0],'1.txt', "ww")
 
 

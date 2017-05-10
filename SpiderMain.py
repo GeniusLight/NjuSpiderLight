@@ -5,6 +5,7 @@ import HtmlDownloader
 import HtmlDeal
 import time
 import os
+import sys
 
 ErrorFile = "error.txt"#请手动清除
 OutputFile = "result.json"
@@ -48,6 +49,24 @@ def Spider2(SpiderFile, FpError, FpOutput):
             out_pots = SimpleDeal.Method3(UrlList[i], html_text, FpError)
             OutputContent.OutputEsNew(out_pots, int(IdList[i]), FpOutput)
 
+def Spider3(SpiderFile, FpError, FpOutput):
+    Downloader = HtmlDownloader.Downloader()
+    SimpleDeal = HtmlDeal.SimpleDeal()
+    OutputContent = HtmlOutput.OutputContent()
+    InputUrl = HtmlInput.InputUrl()
+    IdList = InputUrl.ReadId(SpiderFile)
+    UrlList = InputUrl.ReadUrl(SpiderFile)
+    num = len(UrlList)
+
+    for i in range(num):
+        print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
+        html_text = Downloader.StaticDownload(UrlList[i], int(IdList[i]), FpError)
+        if html_text == None:
+            pass
+        else:
+            out_pots = SimpleDeal.Method3(UrlList[i], html_text, FpError)
+            OutputContent.TestSet(out_pots, int(IdList[i]), FpOutput)
+
 
 def HtmlParser(paser_url, FpError):
     Downloader = HtmlDownloader.Downloader()
@@ -65,6 +84,7 @@ def LocalHtmlParser(paser_url, FpError):
     SimpleDeal = HtmlDeal.SimpleDeal()
     OutputContent = HtmlOutput.OutputContent()
     html_text = open(paser_url, 'r')
+    print html_text
     if html_text == None:
         print "the url:%s is not exist\n" %(paser_url)
     else:
@@ -105,6 +125,7 @@ elif int(model) == 2:
     FpError.write("start:\t" + time.ctime() + "\n\n")
     FpOutput = open(OutputFile, 'w')
 
+
     Spider1(UrlFile, FpError, FpOutput)
     if os.path.exists(ReUrlFile):
         # 重新爬取Url，针对无法爬取的url
@@ -142,14 +163,28 @@ elif int(model)  == 3:
     FpOutput.close()
 
 elif int(model) == 4:
+    if os.path.exists(ReUrlFile):
+        os.remove(ReUrlFile)#删除上一次重新爬取的链接
+    else:
+        pass
     FpError = open(ErrorFile, 'a')
     FpError.write("start:\t" + time.ctime() + "\n\n")
+    FpOutput = 'testres.txt'
 
-    paser_url = "file:///E:/Light/Nova/NjuSearch2.0/NjuSpiderLight/1.html"
-    HtmlParser(paser_url, FpError)
+    TestFile = os.path.join(sys.path[0], "testset", "nju.csv")
+    print TestFile
+    Spider3(TestFile, FpError, FpOutput)
+    if os.path.exists(ReUrlFile):
+        # 重新爬取Url，针对无法爬取的url
+        FpError.write("-----Respider-----\n")
+        print '-----respider-----\n'
+        Spider3(ReUrlFile, FpError, FpOutput)
+    else:
+        print 'No Connection aborted part'
 
     FpError.write("stop:\t"+time.ctime()+"\n\n")
     FpError.close()
+
     
 
 else:
