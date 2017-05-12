@@ -36,6 +36,7 @@ class FileDiff(object):
             content1 = content1 + i
         for i in fp2.readlines():
             content2 = content2 + i
-        s = SequenceMatcher(lambda x:x=="",content1,content2)
+        junk = [" ", "\n", "\t" ]
+        s = SequenceMatcher(lambda x:x in junk,content1,content2)
         print s.ratio()
 
