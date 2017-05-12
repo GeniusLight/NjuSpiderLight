@@ -7,7 +7,15 @@ import time
 import re
 import sys
 import os
+from FileCompare import FileDiff
 
+folder = "testset"
+file1 = "1.txt"
+file2 = "trans1.txt"
+
+file1 = os.path.join(sys.path[0],folder,file1)
+file2 = os.path.join(sys.path[0],folder,file2)
+FileDiff().TwoFileCompare(file1,file2)
 # url = 'http://stuex.nju.edu.cn/'
 # id = 1
 # ErrorFile = "error.txt"
@@ -53,7 +61,5 @@ import os
 # if re.match('(.*?)\.pdf', url):
 #     print 'ok'
 
-print sys.path[0]
-print os.path.join(sys.path[0],'1.txt', )
 
 
