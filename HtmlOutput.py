@@ -18,7 +18,7 @@ class OutputContent(object):
 		self.limit_len = 6
 		self.limit_ratio = 0.1
 		self.limit_num = 3
-		self.max_num = 5
+		self.max_num = 6
 	
 	def OutputEs(self, content, id, FpOutput):
 		json_data = {"create": {"_index": "njusearch3", "_type": "test1", "_id": id}}

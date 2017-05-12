@@ -54,6 +54,6 @@ import os
 #     print 'ok'
 
 print sys.path[0]
-print os.path.join(sys.path[0],'1.txt', "ww")
+print os.path.join(sys.path[0],'1.txt', )
 
 
