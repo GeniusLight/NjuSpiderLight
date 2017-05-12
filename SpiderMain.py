@@ -169,7 +169,7 @@ elif int(model) == 4:
         pass
     FpError = open(ErrorFile, 'a')
     FpError.write("start:\t" + time.ctime() + "\n\n")
-    FpOutput = 'testres.txt'
+    FpOutput = 'trans'
 
     TestFile = os.path.join(sys.path[0], "testset", "nju.csv")
     print TestFile

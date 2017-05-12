@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 import json
 import sys
-import pylab as pl
+#import pylab as pl
 reload(sys)
 sys.setdefaultencoding("utf-8")
 import os
@@ -122,7 +122,7 @@ class OutputContent(object):
 		for pots in out_pots[1:]:
 			if isinstance(pots,list):
 				content = content+" "+pots[2]
-		file_name = str(id) + FpOutput
+		file_name = FpOutput + str(id)+ "txt"
 		OutFile = os.path.join(sys.path[0], "testset", file_name)
 		FpOutput = open(OutFile,'w')
 		FpOutput.write(json.dumps(content, default=lambda obj: obj.__dict__, ensure_ascii=False))  # 序列化输出

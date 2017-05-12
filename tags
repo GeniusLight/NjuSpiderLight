@@ -1,0 +1,70 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BeautifulSoup	HtmlDeal.py	/^from bs4 import BeautifulSoup$/;"	i
+Downloader	HtmlDownloader.py	/^class Downloader(object):$/;"	c
+ErrorFile	SpiderMain.py	/^ErrorFile = "error.txt"#请手动清除$/;"	v
+FpError	SpiderMain.py	/^    FpError = open(ErrorFile, 'a')$/;"	v
+FpOutput	SpiderMain.py	/^    FpOutput = 'testres.txt'$/;"	v
+FpOutput	SpiderMain.py	/^    FpOutput = open(OutputFile, 'w')$/;"	v
+HTMLParser	HtmlDeal.py	/^import HTMLParser$/;"	i
+HtmlDeal	SpiderMain.py	/^import HtmlDeal$/;"	i
+HtmlDeal	test.py	/^import HtmlDeal$/;"	i
+HtmlDownloader	SpiderMain.py	/^import HtmlDownloader$/;"	i
+HtmlDownloader	test.py	/^import HtmlDownloader$/;"	i
+HtmlInput	SpiderMain.py	/^import HtmlInput$/;"	i
+HtmlInput	test.py	/^import HtmlInput$/;"	i
+HtmlOutput	SpiderMain.py	/^import HtmlOutput$/;"	i
+HtmlOutput	test.py	/^import HtmlOutput$/;"	i
+HtmlParser	SpiderMain.py	/^def HtmlParser(paser_url, FpError):$/;"	f
+InputUrl	HtmlInput.py	/^class InputUrl(object):$/;"	c
+LocalHtmlParser	SpiderMain.py	/^def LocalHtmlParser(paser_url, FpError):$/;"	f
+Method1	HtmlDeal.py	/^    def Method1(self, url, html_text, fp_error):#简单地提取网页的信息$/;"	m	class:SimpleDeal
+Method2	HtmlDeal.py	/^    def Method2(self, url, html_text, fp_error):#画图$/;"	m	class:SimpleDeal
+Method3	HtmlDeal.py	/^    def Method3(self, url, html_text, fp_error):#简单地提取网页的信息$/;"	m	class:SimpleDeal
+OutPlot	HtmlOutput.py	/^	def OutPlot(self, plot_pots):$/;"	m	class:OutputContent
+OutputContent	HtmlOutput.py	/^class OutputContent(object):$/;"	c
+OutputEs	HtmlOutput.py	/^	def OutputEs(self, content, id, FpOutput):$/;"	m	class:OutputContent
+OutputEsNew	HtmlOutput.py	/^	def OutputEsNew(self, out_pots, id, FpOutput):$/;"	m	class:OutputContent
+OutputFile	SpiderMain.py	/^OutputFile = "result.json"$/;"	v
+ReUrlFile	HtmlDownloader.py	/^ReUrlFile = 'OutputUrl.csv'$/;"	v
+ReUrlFile	SpiderMain.py	/^ReUrlFile = 'OutputUrl.csv'$/;"	v
+ReadId	HtmlInput.py	/^    def ReadId(self, file):$/;"	m	class:InputUrl
+ReadUrl	HtmlInput.py	/^    def ReadUrl(self, file):$/;"	m	class:InputUrl
+SimpleDeal	HtmlDeal.py	/^class SimpleDeal(object):$/;"	c
+SimpleTrs	HtmlDeal.py	/^class SimpleTrs(object):$/;"	c
+SimpleTrs	HtmlOutput.py	/^class SimpleTrs(object):$/;"	c
+Spider1	SpiderMain.py	/^def Spider1(SpiderFile, FpError, FpOutput):$/;"	f
+Spider2	SpiderMain.py	/^def Spider2(SpiderFile, FpError, FpOutput):$/;"	f
+Spider3	SpiderMain.py	/^def Spider3(SpiderFile, FpError, FpOutput):$/;"	f
+StaticDownload	HtmlDownloader.py	/^    def StaticDownload(self, url, id, fp_error): #Get the static content of the web page$/;"	m	class:Downloader
+StaticDownloadOne	HtmlDownloader.py	/^    def StaticDownloadOne(self, url, fp_error): #Get the static content of the web page$/;"	m	class:Downloader
+TestFile	SpiderMain.py	/^    TestFile = os.path.join(sys.path[0], "testset", "nju.csv")$/;"	v
+TestSet	HtmlOutput.py	/^	def TestSet(self, out_pots, id, FpOutput):$/;"	m	class:OutputContent
+UrlFile	SpiderMain.py	/^UrlFile = "id_url.csv"$/;"	v
+__init__	HtmlDeal.py	/^    def __init__(self, title, content, url):$/;"	m	class:SimpleTrs
+__init__	HtmlOutput.py	/^	def __init__(self):$/;"	m	class:OutputContent
+__init__	HtmlOutput.py	/^	def __init__(self, title, content, url):$/;"	m	class:SimpleTrs
+csv	HtmlDownloader.py	/^import csv$/;"	i
+csv	HtmlInput.py	/^import csv$/;"	i
+json	HtmlDeal.py	/^import json$/;"	i
+json	HtmlOutput.py	/^import json$/;"	i
+model	SpiderMain.py	/^model = raw_input("choose the model num:")$/;"	v
+model_list	SpiderMain.py	/^model_list = ["test plot model(1)",$/;"	v
+os	HtmlOutput.py	/^import os$/;"	i
+os	SpiderMain.py	/^import os$/;"	i
+os	test.py	/^import os$/;"	i
+paser_url	SpiderMain.py	/^    paser_url = 'http:\/\/money.163.com\/15\/0521\/05\/AQ46OS1Q00253B0H.html'$/;"	v
+pl	HtmlOutput.py	/^import pylab as pl$/;"	i
+re	HtmlDownloader.py	/^import re$/;"	i
+re	test.py	/^import re$/;"	i
+requests	HtmlDownloader.py	/^import requests$/;"	i
+sys	HtmlDeal.py	/^import sys$/;"	i
+sys	HtmlOutput.py	/^import sys$/;"	i
+sys	SpiderMain.py	/^import sys$/;"	i
+sys	test.py	/^import sys$/;"	i
+time	SpiderMain.py	/^import time$/;"	i
+time	test.py	/^import time$/;"	i
