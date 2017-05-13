@@ -6,6 +6,9 @@ import HtmlDeal
 import time
 import os
 import sys
+import url2io
+import json
+from FileCompare import FileDiff
 
 ErrorFile = "error.txt"#请手动清除
 OutputFile = "result.json"
@@ -96,7 +99,8 @@ def LocalHtmlParser(paser_url, FpError):
 model_list = ["test plot model(1)",
 "product model(2)",
 "new feature model(3)",
-"test the extract method(4)"]
+"test the extract method(4)",
+"test url2io API(5)"]
 print "-----The following model is:-----"
 for i in model_list:
     print i
@@ -185,7 +189,30 @@ elif int(model) == 4:
     FpError.write("stop:\t"+time.ctime()+"\n\n")
     FpError.close()
 
-    
+elif int(model) == 5:
+    api = url2io.API("6WBCZCoVRSiIzyph80Vexw")
+    TestFile = os.path.join(sys.path[0], "testset", "nju.csv")
+    out = "APItrans"
+    print TestFile
+    InputUrl = HtmlInput.InputUrl()
+    IdList = InputUrl.ReadId(TestFile)
+    UrlList = InputUrl.ReadUrl(TestFile)
+
+    num = len(UrlList)
+
+    for i in range(num):
+        #print UrlList[i]
+        ret = api.article(url=UrlList[i],fields=['text'])
+        file1 = os.path.join(sys.path[0],"testset",IdList[i]+'.txt')
+        file2 = os.path.join(sys.path[0],"testset",out+str(int(IdList[i]))+".txt")
+        FpOutput = open(file2,'w')
+        FpOutput.write(ret['text'].encode('utf-8'))
+        FpOutput.close()
+        simlarity = FileDiff().TwoFileSimilarity(file1, file2)
+        print "of the file:"+IdList[i]+"\tTwoFileSimlarity\t"+str(simlarity)
+        #print json.dumps(ret,indent=4,ensure_ascii=False).encode('utf-8')
+        #print ret['text'].encode("utf-8")
+
 
 else:
     print "The no exist model\n"
