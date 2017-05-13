@@ -59,4 +59,7 @@ class Downloader(object):
 
         return html_text
 
-
+    def StaticRead(self, html_path):
+        FpHtml = open(html_path,'r')
+        html_text = FpHtml.read()
+        return html_text
