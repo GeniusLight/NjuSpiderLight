@@ -14,11 +14,11 @@ class SimpleTrs(object):
 		self.url = url
 
 class OutputContent(object):
-	def __init__(self):
-		self.limit_len = 6
-		self.limit_ratio = 0.1
-		self.limit_num = 3
-		self.max_num = 6
+	def __init__(self, limit_len=6, limit_ratio=0.1, limit_num=3, max_num=6):
+		self.limit_len = limit_len
+		self.limit_ratio = limit_ratio
+		self.limit_num = limit_num
+		self.max_num = max_num
 	
 	def OutputEs(self, content, id, FpOutput):
 		json_data = {"create": {"_index": "njusearch3", "_type": "test1", "_id": id}}

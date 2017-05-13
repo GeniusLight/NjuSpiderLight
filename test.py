@@ -10,8 +10,8 @@ import os
 from FileCompare import FileDiff
 
 folder = "testset"
-file1 = "1.txt"
-file2 = "trans1.txt"
+file1 = "2.txt"
+file2 = "trans2.txt"
 
 file1 = os.path.join(sys.path[0],folder,file1)
 file2 = os.path.join(sys.path[0],folder,file2)
