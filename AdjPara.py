@@ -34,7 +34,7 @@ opt_similarity = 0
 def Spider3(SpiderFile, FpError, FpOutput, limit_len, limit_ratio, limit_num, max_num):
     global opt_limit_len
     global opt_limit_ratio
-    global opt_limit_ratio
+    global opt_limit_num
     global opt_max_num
     global opt_similarity
     Downloader = HtmlDownloader.Downloader()

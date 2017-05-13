@@ -14,7 +14,7 @@ class SimpleTrs(object):
 		self.url = url
 
 class OutputContent(object):
-	def __init__(self, limit_len=6, limit_ratio=0.1, limit_num=3, max_num=6):
+	def __init__(self, limit_len=6, limit_ratio=0.06, limit_num=7, max_num=10):
 		self.limit_len = limit_len
 		self.limit_ratio = limit_ratio
 		self.limit_num = limit_num
