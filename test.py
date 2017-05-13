@@ -18,6 +18,11 @@ file2 = os.path.join(sys.path[0],folder,file2)
 #FileDiff().TwoFileCompare(file1,file2)
 
 FileDiff().TwoFileSimilarity(file1, file2)
+
+def test():
+    print file1
+
+test()
 # url = 'http://stuex.nju.edu.cn/'
 # id = 1
 # ErrorFile = "error.txt"
