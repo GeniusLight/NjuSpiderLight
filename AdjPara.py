@@ -15,9 +15,9 @@ from FileCompare import FileDiff
 
 
 limit_len = [6]
-limit_ratio = arange(0,1.0,0.5)
-limit_num = range(0,10,5)
-max_num = range(0,20,10)
+limit_ratio = arange(0,1.0,0.02)
+limit_num = range(0,10,1)
+max_num = range(0,20,2)
 global opt_limit_len
 opt_limit_len = 0
 global opt_limit_ratio
