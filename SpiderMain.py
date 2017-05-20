@@ -100,7 +100,8 @@ model_list = ["test plot model(1)",
 "product model(2)",
 "new feature model(3)",
 "test the extract method(4)",
-"test url2io API(5)"]
+"test url2io API(5)",
+"new product model(6)"]
 print "-----The following model is:-----"
 for i in model_list:
     print i
@@ -213,7 +214,21 @@ elif int(model) == 5:
         #print json.dumps(ret,indent=4,ensure_ascii=False).encode('utf-8')
         #print ret['text'].encode("utf-8")
 
+elif int(model) == 6:
+    api = url2io.API("6WBCZCoVRSiIzyph80Vexw")
+    InputUrl = HtmlInput.InputUrl()
+    OutputContent = HtmlOutput.OutputContent()
+    IdList = InputUrl.ReadId(UrlFile)
+    UrlList = InputUrl.ReadUrl(UrlFile)
+    FpOutput = open(OutputFile, 'w')
+    num = len(UrlList)
 
+    for i in range(num):
+        print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
+        ret = api.article(url=UrlList[i], fields=['text','url','title'])
+        OutputContent.OutputEs(ret,IdList[i],FpOutput)
+    
+    FpOutput.close()
 else:
     print "The no exist model\n"
 
