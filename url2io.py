@@ -70,7 +70,7 @@ class API(object):
     retry_delay = None
 
     def __init__(self, token, srv = None,
-                 decode_result = True, timeout = 30, max_retries = 5,
+                 decode_result = True, timeout = 90, max_retries = 3,
                  retry_delay = 3):
         """:param srv: The API server address
         :param decode_result: whether to json_decode the result

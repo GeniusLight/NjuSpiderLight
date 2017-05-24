@@ -5,6 +5,7 @@ import HtmlDownloader
 import HtmlDeal
 import time
 import os
+import csv
 import sys
 import url2io
 import json
@@ -215,6 +216,11 @@ elif int(model) == 5:
         #print ret['text'].encode("utf-8")
 
 elif int(model) == 6:
+    if os.path.exists(ReUrlFile):
+        os.remove(ReUrlFile)#删除上一次重新爬取的链接
+    else:
+        pass
+
     api = url2io.API("6WBCZCoVRSiIzyph80Vexw")
     InputUrl = HtmlInput.InputUrl()
     OutputContent = HtmlOutput.OutputContent()
@@ -222,15 +228,26 @@ elif int(model) == 6:
     UrlList = InputUrl.ReadUrl(UrlFile)
     FpOutput = open(OutputFile, 'w')
     num = len(UrlList)
+    csvfile = open(ReUrlFile,'w')
 
     for i in range(num):
         print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
         ret = api.article(url=UrlList[i], fields=['text','url','title'])
-        OutputContent.OutputEs(ret,IdList[i],FpOutput)
-    
-    FpOutput.close()
-else:
-    print "The no exist model\n"
+        if ret.has_key("error"):
+            spamwriter = csv.writer(csvfile, quotechar=',', quoting=csv.QUOTE_MINIMAL)
+            spamwriter.writerow([IdList[i], UrlList[i]])
+        else:
+            OutputContent.OutputEs(ret,IdList[i],FpOutput)
+    csvfile.close()
 
-
+    if os.path.exists(ReUrlFile):
+        # 重新爬取Url，针对无法爬取的url
+        print '-----respider-----\n'
+        ReUrlList = InputUrl.ReadUrl(ReUrlFile)
+        ReIdList = InputUrl.ReadId(ReUrlFile)
+        num = len(ReIdList)
+        for i in range(num):
+            print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
+            ret = api.article(url=UrlList[i], fields=['text','url','title'])
+            OutputContent.OutputEs(ret,IdList[i],FpOutput)
 
