@@ -9,11 +9,12 @@ import csv
 import sys
 import url2io
 import json
+import urllib2
 from FileCompare import FileDiff
 
 ErrorFile = "error.txt"#请手动清除
 OutputFile = "result.json"
-UrlFile = "id_url.csv"
+UrlFile = "id_url_new.csv"
 ReUrlFile = 'OutputUrl.csv'
 
 def Spider1(SpiderFile, FpError, FpOutput):
@@ -230,13 +231,19 @@ elif int(model) == 6:
     num = len(UrlList)
     csvfile = open(ReUrlFile,'w')
 
+
+
     for i in range(num):
-        print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
         ret = api.article(url=UrlList[i], fields=['text','url','title'])
+        time.sleep(0)
+       # print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
         if ret.has_key("error"):
+            req = urllib2.urlopen(UrlList[i])
+            url_trans = req.geturl()
             spamwriter = csv.writer(csvfile, quotechar=',', quoting=csv.QUOTE_MINIMAL)
-            spamwriter.writerow([IdList[i], UrlList[i]])
+            spamwriter.writerow([IdList[i], url_trans])
         else:
+            print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
             OutputContent.OutputEs(ret,IdList[i],FpOutput)
     csvfile.close()
 
