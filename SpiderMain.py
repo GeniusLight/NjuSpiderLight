@@ -1,4 +1,4 @@
-    # -*- coding:utf-8 -*-
+# -*- coding:utf-8 -*-
 import HtmlInput
 import HtmlOutput
 import HtmlDownloader
@@ -234,7 +234,13 @@ elif int(model) == 6:
 
 
     for i in range(num):
-        ret = api.article(url=UrlList[i], fields=['text','url','title'])
+        try:
+            ret = api.article(url=UrlList[i], fields=['text','url','title'])
+        except Exception as e:
+            print e
+            spamwriter = csv.writer(csvfile, quotechar=',', quoting=csv.QUOTE_MINIMAL)
+            spamwriter.writerow([IdList[i], UrlList[i]])
+            continue
         time.sleep(0)
        # print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
         if ret.has_key("error"):
@@ -254,7 +260,11 @@ elif int(model) == 6:
         ReIdList = InputUrl.ReadId(ReUrlFile)
         num = len(ReIdList)
         for i in range(num):
-            print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
-            ret = api.article(url=UrlList[i], fields=['text','url','title'])
-            OutputContent.OutputEs(ret,IdList[i],FpOutput)
+            print ("id:%d \t\t url:%s") % (int(ReIdList[i]), ReUrlList[i])
+            try:
+                ret = api.article(url=ReUrlList[i], fields=['text','url','title'])
+            except Exception as e:
+                print e
+                continue
+            OutputContent.OutputEs(ret,ReIdList[i],FpOutput)
 
