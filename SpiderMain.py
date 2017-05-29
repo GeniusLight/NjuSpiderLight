@@ -238,10 +238,10 @@ elif int(model) == 6:
         time.sleep(0)
        # print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
         if ret.has_key("error"):
-            req = urllib2.urlopen(UrlList[i])
-            url_trans = req.geturl()
+            #req = urllib2.urlopen(UrlList[i])
+            #url_trans = req.geturl()
             spamwriter = csv.writer(csvfile, quotechar=',', quoting=csv.QUOTE_MINIMAL)
-            spamwriter.writerow([IdList[i], url_trans])
+            spamwriter.writerow([IdList[i], UrlList[i]])
         else:
             print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
             OutputContent.OutputEs(ret,IdList[i],FpOutput)
