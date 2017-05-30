@@ -12,17 +12,22 @@ from FileCompare import FileDiff
 folder = "testset"
 file1 = "2.txt"
 file2 = "trans2.txt"
+start = time.time()
+time.sleep(4)
+stop = time.time()
+time = stop - start
+print "testi%f"%(stop-start)
 
-file1 = os.path.join(sys.path[0],folder,file1)
-file2 = os.path.join(sys.path[0],folder,file2)
+#file1 = os.path.join(sys.path[0],folder,file1)
+#file2 = os.path.join(sys.path[0],folder,file2)
 #FileDiff().TwoFileCompare(file1,file2)
 
-FileDiff().TwoFileSimilarity(file1, file2)
+#FileDiff().TwoFileSimilarity(file1, file2)
 
-def test():
-    print file1
+#def test():
+ #   print file1
 
-test()
+#test()
 # url = 'http://stuex.nju.edu.cn/'
 # id = 1
 # ErrorFile = "error.txt"

@@ -108,7 +108,8 @@ print "-----The following model is:-----"
 for i in model_list:
     print i
 
-model = raw_input("choose the model num:")
+#model = raw_input("choose the model num:")
+model = 6
 
 if int(model) == 1:
     FpError = open(ErrorFile, 'a')
@@ -217,6 +218,16 @@ elif int(model) == 5:
         #print ret['text'].encode("utf-8")
 
 elif int(model) == 6:
+    print time.ctime()
+    print "-----start----"
+    start = time.time()
+    refail_num = 0
+    fail_num = 0
+    permission_error = 0
+    http_error = 0
+    url_error = 0
+    type_error = 0
+    unknow_error = 0
     if os.path.exists(ReUrlFile):
         os.remove(ReUrlFile)#删除上一次重新爬取的链接
     else:
@@ -232,7 +243,6 @@ elif int(model) == 6:
     csvfile = open(ReUrlFile,'w')
 
 
-
     for i in range(num):
         try:
             ret = api.article(url=UrlList[i], fields=['text','url','title'])
@@ -246,10 +256,30 @@ elif int(model) == 6:
         if ret.has_key("error"):
             #req = urllib2.urlopen(UrlList[i])
             #url_trans = req.geturl()
-            spamwriter = csv.writer(csvfile, quotechar=',', quoting=csv.QUOTE_MINIMAL)
-            spamwriter.writerow([IdList[i], UrlList[i]])
-        else:
+            fail_num = fail_num + 1
             print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
+            print ret
+            if ret["error"] == "HTTPError":
+                http_error = http_error + 1
+                if ret["code"] == "404":
+                    pass
+                elif ret["code"] == "599":
+                    spamwriter = csv.writer(csvfile, quotechar=',', quoting=csv.QUOTE_MINIMAL)
+                    spamwriter.writerow([IdList[i], UrlList[i]])
+                else:
+                    print "an unsolved error"
+            elif ret["error"] == "PermissionError":
+                permission_error = permission_error + 1
+            elif ret["error"] == "URLError":
+                url_error = url_error + 1
+            elif ret["error"] == "TypeError":
+                type_error = type_error + 1
+            elif ret["error"] == "UnknownError":
+                unknow_error = unknow_error + 1
+            else :
+                print "an unrecord error"
+        else:
+            #print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
             OutputContent.OutputEs(ret,IdList[i],FpOutput)
     csvfile.close()
 
@@ -260,11 +290,31 @@ elif int(model) == 6:
         ReIdList = InputUrl.ReadId(ReUrlFile)
         num = len(ReIdList)
         for i in range(num):
-            print ("id:%d \t\t url:%s") % (int(ReIdList[i]), ReUrlList[i])
             try:
                 ret = api.article(url=ReUrlList[i], fields=['text','url','title'])
+                if ret.has_key("error"):
+                    refail_num = refail_num + 1
+                    print ("id:%d \t\t url:%s") % (int(ReIdList[i]), ReUrlList[i])
+                    print ret
+                else:
+                    OutputContent.OutputEs(ret,ReIdList[i],FpOutput)
+                    #print ("id:%d \t\t url:%s") % (int(ReIdList[i]), ReUrlList[i])
             except Exception as e:
                 print e
                 continue
-            OutputContent.OutputEs(ret,ReIdList[i],FpOutput)
+    stop = time.time()
+    print "\n\nhave use time:\t%f"%(stop-start)
+    print "first fail num:\t%d"%(fail_num)
+    print "HTTPError:\t%d"%(http_error)
+    print "URLError:\t%d"%(url_error)
+    print "UnknowError\t%d"%(unknow_error)
+    print "PermissionError\t%d"%(permission_error)
+    print "TypeError:\t%d"%(type_error)
+    print "respider and fial num:\t%d"%(refail_num)
+
+if int(model)==7:
+    api = url2io.API("6WBCZCoVRSiIzyph80Vexw")
+    url = "http://stuex.nju.edu.cn/a/www.hec.fr"
+    ret = api.article(url=url, fields=['text','url','title'])
+    print ret
 
