@@ -233,6 +233,7 @@ elif int(model) == 6:
     else:
         pass
 
+    file_404 = "record_404.csv"
     api = url2io.API("6WBCZCoVRSiIzyph80Vexw")
     InputUrl = HtmlInput.InputUrl()
     OutputContent = HtmlOutput.OutputContent()
@@ -241,6 +242,7 @@ elif int(model) == 6:
     FpOutput = open(OutputFile, 'w')
     num = len(UrlList)
     csvfile = open(ReUrlFile,'w')
+    csvfile_404 = open(file_404,'w')
 
 
     for i in range(num):
@@ -261,9 +263,10 @@ elif int(model) == 6:
             print ret
             if ret["error"] == "HTTPError":
                 http_error = http_error + 1
-                if ret["code"] == "404":
-                    pass
-                elif ret["code"] == "599":
+                if ret["code"] == 404:
+                    writer_404 = csv.writer(csvfile_404, quotechar=',', quoting=csv.QUOTE_MINIMAL)
+                    writer_404.writerow([IdList[i], UrlList[i]])
+                elif ret["code"] == 599:
                     spamwriter = csv.writer(csvfile, quotechar=',', quoting=csv.QUOTE_MINIMAL)
                     spamwriter.writerow([IdList[i], UrlList[i]])
                 else:
@@ -282,6 +285,7 @@ elif int(model) == 6:
             #print ("id:%d \t\t url:%s") % (int(IdList[i]), UrlList[i])
             OutputContent.OutputEs(ret,IdList[i],FpOutput)
     csvfile.close()
+    csvfile_404.close()
 
     if os.path.exists(ReUrlFile):
         # 重新爬取Url，针对无法爬取的url
