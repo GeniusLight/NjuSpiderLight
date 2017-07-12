@@ -17,6 +17,22 @@ class SimpleTrs(object):
 
 
 class SimpleDeal(object):
+    def DeleteLabel(self, html_text):
+        soup = BeautifulSoup(html_text, "lxml")
+        script = soup.find_all("script")  # 找到所有script的标签
+        for x in script:  # 判断script标签是否包含文本，若有，直接置为空
+            if x.string != None:
+                x.string.replace_with(" ")
+
+        style = soup.find_all("style")  # 找到所有script的标签
+        for x in style:  # 判断style标签是否包含文本，若有，直接置为空
+            if x.string != None:
+                x.string.replace_with(" ")
+
+        content = "\t".join(soup.stripped_strings)
+        return content
+
+
     def Method1(self, url, html_text, fp_error):#简单地提取网页的信息
         if html_text is None:
             OutputS = SimpleTrs(None, None, url)
