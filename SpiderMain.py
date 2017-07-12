@@ -294,6 +294,7 @@ elif int(model) == 6:
         ReIdList = InputUrl.ReadId(ReUrlFile)
         num = len(ReIdList)
         for i in range(num):
+            time.sleep(10)
             try:
                 ret = api.article(url=ReUrlList[i], fields=['text','url','title'])
                 if ret.has_key("error"):
