@@ -19,3 +19,11 @@ class InputUrl(object):
         for row in CsvReader:
             list.append(row[0])
         return list
+
+    def ReadLanguage(self, file):
+        CsvFile = open(file, 'rb')
+        CsvReader = csv.reader(CsvFile)
+        list = []
+        for row in CsvReader:
+            list.append(row[2])
+        return list
