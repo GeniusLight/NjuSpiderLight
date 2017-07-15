@@ -5,18 +5,28 @@ import HtmlDownloader
 import HtmlDeal
 import time
 import re
+import requests
 import sys
 import os
 from FileCompare import FileDiff
 
-folder = "testset"
-file1 = "2.txt"
-file2 = "trans2.txt"
-start = time.time()
-time.sleep(4)
-stop = time.time()
-time = stop - start
-print "testi%f"%(stop-start)
+import urllib2
+
+file = "test.txt"
+url = "http://stuex.nju.edu.cn/a/liuxueshuominghui/20160311/1022.html"
+opener = urllib2.build_opener(urllib2.HTTPCookieProcessor())
+response = opener.open(url)
+raw_html1 = response.read()
+
+
+html = requests.get(url)# seconds Requests will wait
+raw_html2 = html.text
+
+fp = open(file, 'w')
+
+fp.write(raw_html1)
+fp.write("___________________________________")
+fp.write(raw_html2)
 
 #file1 = os.path.join(sys.path[0],folder,file1)
 #file2 = os.path.join(sys.path[0],folder,file2)

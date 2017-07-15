@@ -7,6 +7,26 @@ import csv
 ReUrlFile = 'OutputUrl.csv'
 
 class Downloader(object):
+    def StaticDownloadNoencode(self, url, id, fp_error): #Get the static content of the web page
+        headers = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36"}
+
+        if url is None:
+            return None
+
+        if re.match('(.*?)\.pdf', url): #处理.pdf,.ppt 这类网页
+            return None
+
+        try:
+            html = requests.get(url, headers=headers, timeout=90)# seconds Requests will wait
+        except Exception as e:
+            fp_error.write("location1"+"\t"+url+'\t\t'+str(e)+'\t'+"\n")
+            with open(ReUrlFile, 'a') as csvfile:
+                spamwriter = csv.writer(csvfile, quotechar=',', quoting=csv.QUOTE_MINIMAL)
+                spamwriter.writerow([str(id), url])
+            return None
+
+        return html
+
     def StaticDownload(self, url, id, fp_error): #Get the static content of the web page
         headers = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36"}
 

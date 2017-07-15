@@ -8,6 +8,7 @@ from FileCompare import FileDiff
 import re
 from goose import Goose
 from goose.text import StopWordsChinese
+from pymongo import MongoClient
 
 ErrorFile = "error.txt"#请手动清除
 OutputFile = "result.json"
@@ -21,8 +22,8 @@ model_list = [
 for model_item in model_list:
     print model_item
 
-#model_num = raw_input("Choose the model num:\n")
-model_num = 0
+model_num = raw_input("Choose the model num:\n")
+#model_num = 0
 
 if int(model_num) == 0:
     start_time = time.time()
@@ -32,6 +33,7 @@ if int(model_num) == 0:
     OutputContent = HtmlOutput.OutputContent()
 
     FpError = open(ErrorFile, 'a')
+    FpError.write("The scipt is:SpiderMian.py\tThe model is:0\n")
     FpError.write("start:\t" + time.ctime() + "\n\n")
     FpOutput = open(OutputFile, 'w')
 
@@ -95,14 +97,85 @@ if int(model_num) == 0:
     print ("use time:%f")%(stop_time-start_time)
 
 
-    start_time = time.time()
-    start_time = time.time()
 
 
 if int(model_num) == 1:
-    url = "https://xgc.nju.edu.cn/5e/81/c1521a24193/page.htm"
-    g = Goose({"stopwords_class":StopWordsChinese})
-    #g = Goose()
-    article = g.extract(url=url)
-    print article.title
-    print article.cleaned_text
+    start_time = time.time()
+    fail_number = 0
+    InputUrl = HtmlInput.InputUrl()
+    Downloader = HtmlDownloader.Downloader()
+    SimpleDeal = HtmlDeal.SimpleDeal()
+    OutputContent = HtmlOutput.OutputContent()
+
+    FpError = open(ErrorFile, 'a')
+    FpError.write("The scipt is:SpiderMian.py\tThe model is:0\n")
+    FpError.write("start:\t" + time.ctime() + "\n\n")
+    FpOutput = open(OutputFile, 'w')
+
+    client = MongoClient()
+    db = client.nju_web_code
+    collection = db.version2
+    num = collection.find().count()
+
+    for i in range(1, num+1):
+        print i
+        query = collection.find_one({"web_id":i})
+        if query['language'] == "chinese":
+            g = Goose({"stopwords_class":StopWordsChinese})
+            if query['encode'] == 'ISO-8859-1':
+                raw_html = query['html_code'].decode("utf-8").encode("ISO-8859-1")
+            else:
+                raw_html = query['html_code']
+            try:
+                a = g.extract(raw_html=raw_html)
+                title = a.title
+                content = a.cleaned_text
+                if len(content) <10:
+                    fail_number = fail_number + 1
+            except Exception as e:
+                FpError.write("can't extract it\n id:%d\t\tcontent:%s\n")%(i)       
+                content = ""
+                title = ""
+
+        elif query['language'] == "english":
+            g = Goose()
+            if query['encode'] == 'ISO-8859-1':
+                raw_html = query['html_code'].decode("utf-8").encode("ISO-8859-1")
+            else:
+                raw_html = query['html_code']
+            try:
+                a = g.extract(raw_html=raw_html)
+                title = a.title
+                content = a.cleaned_text
+                if len(content) <10:
+                    fail_number = fail_number + 1
+            except Exception as e:
+                FpError.write("can't extract it\n id:%d\t\tcontent:%s\n")%(query['web_id'])       
+                content = ""
+                title = ""
+
+        elif query['language'] == 'unknow':
+            g = Goose()
+            raw_html = query['html_code']
+            try:
+                a = g.extract(raw_html=raw_html)
+                title = a.title
+                content = a.cleaned_text
+                if len(content) <10:
+                    fail_number = fail_number + 1
+            except Exception as e:
+                FpError.write("can't extract it\n id:%d\t\tcontent:%s\n")%(query['web_id'])       
+                content = ""
+                title = ""
+
+        elif query['language'] == 'nocontent':
+            content = ""
+            title = ""
+
+        output_es = HtmlDeal.SimpleTrs(title, content, query['web_id'])
+        OutputContent.OutputEs(output_es, query['web_id'], FpOutput)
+        #print content
+
+    stop_time = time.time()
+    print ("use time:%f")%(stop_time-start_time)
+    print ("fail_number is:%d")%(fail_number)

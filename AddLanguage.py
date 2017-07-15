@@ -23,6 +23,7 @@ Downloader = HtmlDownloader.Downloader()
 SimpleDeal = HtmlDeal.SimpleDeal()
 
 FpError = open(ErrorFile, 'a')
+FpError.write("The script is:AddLanguage.py\n")
 FpError.write("start:\t" + time.ctime() + "\n\n")
 csv_file = open(CsvFile, 'w')
 
