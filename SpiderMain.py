@@ -4,7 +4,6 @@ import HtmlOutput
 import HtmlDownloader
 import HtmlDeal
 import time
-from FileCompare import FileDiff
 import re
 from goose import Goose
 from goose.text import StopWordsChinese
@@ -25,7 +24,7 @@ for model_item in model_list:
 model_num = raw_input("Choose the model num:\n")
 #model_num = 0
 
-if int(model_num) == 0:
+if int(model_num) == 0:#download the html_code and transform it
     start_time = time.time()
     InputUrl = HtmlInput.InputUrl()
     Downloader = HtmlDownloader.Downloader()
@@ -99,11 +98,9 @@ if int(model_num) == 0:
 
 
 
-if int(model_num) == 1:
+if int(model_num) == 1:#use the database html_code and transform it
     start_time = time.time()
     fail_number = 0
-    InputUrl = HtmlInput.InputUrl()
-    Downloader = HtmlDownloader.Downloader()
     SimpleDeal = HtmlDeal.SimpleDeal()
     OutputContent = HtmlOutput.OutputContent()
 
@@ -130,7 +127,7 @@ if int(model_num) == 1:
                 a = g.extract(raw_html=raw_html)
                 title = a.title
                 content = a.cleaned_text
-                if len(content) <10:
+                if len(content) <3:
                     fail_number = fail_number + 1
             except Exception as e:
                 FpError.write("can't extract it\n id:%d\t\tcontent:%s\n")%(i)       
@@ -147,7 +144,7 @@ if int(model_num) == 1:
                 a = g.extract(raw_html=raw_html)
                 title = a.title
                 content = a.cleaned_text
-                if len(content) <10:
+                if len(content) <3:
                     fail_number = fail_number + 1
             except Exception as e:
                 FpError.write("can't extract it\n id:%d\t\tcontent:%s\n")%(query['web_id'])       
@@ -161,7 +158,7 @@ if int(model_num) == 1:
                 a = g.extract(raw_html=raw_html)
                 title = a.title
                 content = a.cleaned_text
-                if len(content) <10:
+                if len(content) <3:
                     fail_number = fail_number + 1
             except Exception as e:
                 FpError.write("can't extract it\n id:%d\t\tcontent:%s\n")%(query['web_id'])       
