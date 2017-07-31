@@ -30,7 +30,7 @@ FpError.write("start:\t" + time.ctime() + "\n\n")
 client = MongoClient()
 db = client.nju_web_code
 #db.drop_collection('version1')
-collection = db.version2
+collection = db.version3
 
 web_id = 0
 language = "unkonw"

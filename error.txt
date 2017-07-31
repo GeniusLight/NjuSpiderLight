@@ -307,3 +307,31 @@ start:	Sun Jul 16 10:18:38 2017
 The scipt is:SpiderMian.py	The model is:0
 start:	Sat Jul 29 20:28:45 2017
 
+The script is:HtmlCode.py
+start:	Sat Jul 29 21:07:34 2017
+
+location1	http://xgc.nju.edu.cn/56/f5/c1543a22261/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/89/b8/c1553a35256/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/6c/53/c1546a27731/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/5c/f7/c1521a23799/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/84/39/c1521a33849/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/53/d1/c1520a21457/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/6c/b8/c1546a27832/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/5f/15/c1531a24341/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/6c/76/c1546a27766/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://xgc.nju.edu.cn/53/52/c1520a21330/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://www.nju.edu.cn/EN/8c/46/c7549a166982/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://www.nju.edu.cn/_s2/3687/list.psp		('Connection aborted.', BadStatusLine("''",))	
+location1	http://www.nju.edu.cn/EN/95/04/c6624a169220/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://www.nju.edu.cn/00/71/c72a113/page.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://www.nju.edu.cn/EN/undergraduate_programs/list.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://www.nju.edu.cn/38/list.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://www.nju.edu.cn/EN/4890/list.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://www.nju.edu.cn/9132/list.htm		('Connection aborted.', BadStatusLine("''",))	
+location1	http://stuex.nju.edu.cn/a/liuxueshuominghui/20160311/1022.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+location1	http://stuex.nju.edu.cn/a/changqixiangmu/20161013/1302.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+location1	http://stuex.nju.edu.cn/a/U_S_A_/20150729/211.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+location1	http://stuex.nju.edu.cn/a/liuxueshenghuo/2015/0815/601.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+location1	http://stuex.nju.edu.cn/a/changqixiangmu/20170220/1383.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+location1	http://stuex.nju.edu.cn/en/a/North_America/Usa/20150806/127.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	
+location1	http://stuex.nju.edu.cn/en/a/Scientific_Research/chief_professors/School_of_Engineering___Applied_Sciences/2015/0808/544.html		HTTPConnectionPool(host='stuex.nju.edu.cn', port=80): Read timed out.	

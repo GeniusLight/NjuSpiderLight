@@ -7,6 +7,9 @@ import csv
 ReUrlFile = 'OutputUrl.csv'
 
 class Downloader(object):
+    def __init__(self):
+        self.cafile = "/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem"
+
     def StaticDownloadNoencode(self, url, id, fp_error): #Get the static content of the web page
         headers = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36"}
 
@@ -17,7 +20,7 @@ class Downloader(object):
             return None
 
         try:
-            html = requests.get(url, headers=headers, timeout=90)# seconds Requests will wait
+            html = requests.get(url, headers=headers, timeout=90, verify=self.cafile)# seconds Requests will wait
         except Exception as e:
             fp_error.write("location1"+"\t"+url+'\t\t'+str(e)+'\t'+"\n")
             with open(ReUrlFile, 'a') as csvfile:
@@ -37,7 +40,7 @@ class Downloader(object):
             return None
 
         try:
-            html = requests.get(url, headers=headers, timeout=90)# seconds Requests will wait
+            html = requests.get(url, headers=headers, timeout=90, verify=self.cafile)# seconds Requests will wait
         except Exception as e:
             fp_error.write("location1"+"\t"+url+'\t\t'+str(e)+'\t'+"\n")
             with open(ReUrlFile, 'a') as csvfile:
@@ -63,7 +66,7 @@ class Downloader(object):
             return None
 
         try:
-            html = requests.get(url, headers=headers, timeout=60)# seconds Requests will wait
+            html = requests.get(url, headers=headers, timeout=60, verify=self.cafile)# seconds Requests will wait
         except Exception as e:
             fp_error.write("location1"+"\t"+url+'\t\t'+str(e)+'\t'+"\n")
             with open(ReUrlFile, 'a') as csvfile:
